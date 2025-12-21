@@ -94,5 +94,53 @@
         "type": "Online Course",
         "language": "Python",
         "date_found": "2025-12-21"
+    },
+    {
+        "name": "Python Cookbook",
+        "url": "https://www.oreilly.com/library/view/python-cookbook-3rd/9780596158064/",
+        "description": "For mastering Python 3.",
+        "type": "Best Free Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Introduction to Machine Learning with Python",
+        "url": "https://www.oreilly.com/library/view/introduction-to-machine/9781449369415/",
+        "description": "A guide for data scientists.",
+        "type": "Best Free Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Fluent Python",
+        "url": "https://www.oreilly.com/library/view/fluent-python/9780134853981/",
+        "description": "Clear, concise, and effective programming.",
+        "type": "Best Free Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Programming Python",
+        "url": "https://www.oreilly.com/library/view/programming-python-5th/9780596158064/",
+        "description": "Powerful object-oriented programming.",
+        "type": "Best Free Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Learn Python the Hard Way",
+        "url": "https://learnpythonthehardway.org/python3/",
+        "description": "A comprehensive guide for beginners.",
+        "type": "Classic Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "The official Python Documentation",
+        "url": "https://docs.python.org/3/",
+        "description": "Comprehensive and authoritative.",
+        "type": "Legendary Documentation",
+        "language": "Python",
+        "date_found": "2025-12-21"
     }
 ]
