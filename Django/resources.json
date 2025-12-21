@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Django Documentation",
+        "url": "https://docs.djangoproject.com/en/stable/",
+        "description": "Official documentation for Django, covering all aspects of the framework.",
+        "type": "Documentation",
+        "language": "Django",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Django Admin Tools Documentation",
+        "url": "https://django-admin-tools.readthedocs.io/en/latest/",
+        "description": "Documentation for Django Admin Tools, enhancing the admin interface.",
+        "type": "Documentation",
+        "language": "Django",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Django REST Framework Documentation",
+        "url": "https://www.django-rest-framework.org/",
+        "description": "Official documentation for Django REST Framework, a powerful and flexible toolkit for building Web APIs.",
+        "type": "Documentation",
+        "language": "Django",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Django Girls Tutorial",
+        "url": "https://tutorial.djangogirls.org/en/",
+        "description": "A beginner-friendly tutorial for girls to learn web development with Django.",
+        "type": "Tutorial",
+        "language": "Django",
+        "date_found": "2025-12-21"
+    }
+]
