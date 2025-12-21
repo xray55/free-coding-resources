@@ -2,7 +2,7 @@
 # 📚 Free Coding Resources (AI-Curated)
 
 [![Daily Updates](https://img.shields.io/badge/Updates-Daily-brightgreen.svg?style=flat-square)](https://xray55.github.io/free-coding-resources/)
-[![Total Resources](https://img.shields.io/badge/Resources-48-blue.svg?style=flat-square)](https://xray55.github.io/free-coding-resources/)
+[![Total Resources](https://img.shields.io/badge/Resources-52-blue.svg?style=flat-square)](https://xray55.github.io/free-coding-resources/)
 [![Built With](https://img.shields.io/badge/Built%20With-CrewAI-blueviolet.svg?style=flat-square)](https://www.crewai.com/)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat-square)](LICENSE)
 
@@ -14,8 +14,8 @@ This repository is maintained by a specialized fleet of AI Agents running locall
 
 ---
 ## 📊 Live Stats
-* **Total Resources Archived:** `48`
-* **Last Agent Run:** `2025-12-21 13:31`
+* **Total Resources Archived:** `52`
+* **Last Agent Run:** `2025-12-21 13:32`
 ---
 ## 🤖 How It Works
 1.  **Trigger:** Windows Task Scheduler wakes up the Python kernel.
