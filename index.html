@@ -1,0 +1,293 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Daily Coding Resources</title>
+        <meta charset="UTF-8">
+        <style>
+            body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; background: #f0f2f5; color: #333; }
+            h1 { text-align: center; color: #2c3e50; margin-bottom: 5px; }
+            .subtitle { text-align: center; color: #7f8c8d; margin-bottom: 40px; }
+
+            /* ACCORDION STYLES */
+            details {
+                margin-bottom: 15px;
+                background: white;
+                border-radius: 8px;
+                box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+                overflow: hidden;
+            }
+
+            summary {
+                background: #2c3e50;
+                color: white;
+                padding: 15px 20px;
+                cursor: pointer;
+                font-size: 1.2em;
+                font-weight: bold;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                list-style: none;
+            }
+
+            summary::-webkit-details-marker { display: none; }
+            summary:hover { background: #34495e; }
+
+            /* +/- Indicator */
+            summary::after { content: '+'; font-size: 1.5em; font-weight: normal; }
+            details[open] summary::after { content: '-'; }
+
+            .lang-count { 
+                background: rgba(255,255,255,0.2); 
+                padding: 2px 10px; 
+                border-radius: 12px; 
+                font-size: 0.7em; 
+                margin-left: 10px;
+                vertical-align: middle;
+            }
+
+            .content-wrapper { padding: 20px; background: #fafafa; border-top: 1px solid #eee; }
+
+            .card { background: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; border: 1px solid #eee; border-left: 4px solid #3498db; }
+            .card:hover { border-left-width: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+
+            .header-row { display: flex; justify-content: space-between; font-size: 0.85em; color: #95a5a6; margin-bottom: 8px; }
+            h3 { margin: 0 0 8px 0; font-size: 1.1em; }
+            a { text-decoration: none; color: #2c3e50; }
+            a:hover { color: #3498db; text-decoration: underline; }
+            p { line-height: 1.5; color: #555; margin: 0; font-size: 0.95em; }
+        </style>
+    </head>
+    <body>
+        <h1>📚 Daily Coding Resources</h1>
+        <p class="subtitle">Curated by AI • Updated Daily • <a href="https://github.com/xray55/free-coding-resources">View on GitHub</a></p>
+    
+        <details>
+            <summary>
+                <span>Java <span class="lang-count">12</span></span>
+            </summary>
+            <div class="content-wrapper">
+        
+                <div class="card">
+                    <div class="header-row">
+                        <span>Book</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://books.trinket.io/pd/java/intro.html" target="_blank">Introduction to Java Programming</a></h3>
+                    <p>A comprehensive guide to learning Java programming.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Book</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://www.gutenberg.org/ebooks/50343" target="_blank">Java: A Beginner's Guide</a></h3>
+                    <p>An introductory book for beginners to learn Java programming.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Book</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://jbloch.github.io/effective-java/" target="_blank">Effective Java</a></h3>
+                    <p>A guide on writing efficient and effective Java code.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Book</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://jcip.net/" target="_blank">Java Concurrency in Practice</a></h3>
+                    <p>A book about concurrency in the Java programming language.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Book</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="http://www.gofpatterns.com/" target="_blank">Design Patterns: Elements of Reusable Object-Oriented Software</a></h3>
+                    <p>A classic book on design patterns in software engineering.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Book</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://www.headfirstlabs.com/books/hfjava/ (Chapter previews available)" target="_blank">Head First Java</a></h3>
+                    <p>An interactive and engaging book for learning Java programming.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Book</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://www.amazon.com/Java-Performance-Tuning-Jack-Shirazi/dp/0134692564" target="_blank">Java Performance Tuning</a></h3>
+                    <p>A book on optimizing Java applications for better performance.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Book</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://java.sun.com/docs/books/puzzlers/" target="_blank">Java Puzzlers: Traps, Pitfalls, and Corner Cases</a></h3>
+                    <p>A collection of Java programming puzzles to improve understanding.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Online Resource</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://docs.oracle.com/javase/tutorial/" target="_blank">The Java Programming Language</a></h3>
+                    <p>Oracle's official guide to the Java programming language.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Book</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://www.amazon.com/Core-Java-Volume-Fundamentals-Horstmann/dp/0132354764" target="_blank">Core Java 2, Volume I - Fundamentals</a></h3>
+                    <p>A comprehensive book on the fundamentals of Java programming.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Book</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt/dp/0071809252" target="_blank">Java: The Complete Reference</a></h3>
+                    <p>A comprehensive book covering various aspects of Java programming.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Book</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://www.manning.com/books/java-8-in-action" target="_blank">Java 8 in Action</a></h3>
+                    <p>A guide on using the new features and improvements in Java 8.</p>
+                </div>
+            </div></details>
+        <details>
+            <summary>
+                <span>Python <span class="lang-count">12</span></span>
+            </summary>
+            <div class="content-wrapper">
+        
+                <div class="card">
+                    <div class="header-row">
+                        <span>Online Course</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/" target="_blank">freeCodeCamp Python Courses</a></h3>
+                    <p>A comprehensive set of free Python courses offered by freeCodeCamp, covering scientific computing and more.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Documentation</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://docs.python.org/3/tutorial/index.html" target="_blank">Python.org Documentation</a></h3>
+                    <p>Official documentation for Python 3, providing a tutorial and reference material for the language.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Tutorials</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://realpython.com/" target="_blank">Real Python Tutorials</a></h3>
+                    <p>A website offering detailed tutorials and guides on various Python topics, aimed at intermediate to advanced learners.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Book</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://automatetheboringstuff.com/" target="_blank">Automate the Boring Stuff with Python</a></h3>
+                    <p>A book by Al Sweigart that teaches how to automate tasks using Python, suitable for beginners.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Book</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://learnpythonthehardway.org/book/" target="_blank">Learn Python the Hard Way</a></h3>
+                    <p>A comprehensive guide by Zed Shaw designed to teach Python through exercises and repetition.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Book</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://jakevdp.github.io/PythonDataScienceHandbook/" target="_blank">Python for Data Science Handbook</a></h3>
+                    <p>A book by Jake VanderPlas that covers data science with Python, including libraries like NumPy and pandas.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Book</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://ehmatthes.github.io/pcc_2e/index.html" target="_blank">Python Crash Course</a></h3>
+                    <p>A book by Eric Matthes that provides a concise introduction to Python programming for beginners.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Challenges</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://www.hackerrank.com/domains/tutorials/10-days-of-python" target="_blank">HackerRank Python Challenges</a></h3>
+                    <p>A series of challenges and tutorials on Python provided by HackerRank, aimed at improving coding skills.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Online Course</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://www.codecademy.com/learn/learn-python-3" target="_blank">Codecademy Python Track</a></h3>
+                    <p>An interactive course on Codecademy that teaches the fundamentals of Python programming.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Online Course</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://www.coursera.org/specializations/python-data-science" target="_blank">Coursera - Python for Everybody Specialization</a></h3>
+                    <p>A specialization on Coursera that covers Python for data science, including data manipulation and analysis.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Online Course</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://www.udemy.com/topic/python/" target="_blank">Udemy Free Python Courses</a></h3>
+                    <p>A collection of free Python courses available on Udemy, covering various topics from beginner to advanced levels.</p>
+                </div>
+            
+                <div class="card">
+                    <div class="header-row">
+                        <span>Online Course</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://developers.google.com/edu/python" target="_blank">Google's Python Class</a></h3>
+                    <p>An introductory course by Google that covers the basics of Python programming and its applications.</p>
+                </div>
+            </div></details></body></html>
