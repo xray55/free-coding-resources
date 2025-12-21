@@ -4,8 +4,8 @@
     <head>
         <title>Free Coding Resources 2025 | Daily Curated Programming Books & Guides</title>
         <meta charset="UTF-8">
-        <meta name="description" content="A daily updated collection of the best free coding resources, programming books, and developer guides for Python, Java, Rust, C++, and more. Curated by AI.">
-        <meta name="keywords" content="free coding resources, learn programming, free python books, learn rust free, developer guides 2025, coding library, computer science books">
+        <meta name="description" content="A daily updated collection of the best free coding resources, programming books, and developer guides for Python, Java, React, Node.js, and more. Curated by AI.">
+        <meta name="keywords" content="free coding resources, learn programming, free python books, learn rust free, developer guides 2025, coding library">
         <meta name="author" content="xray55">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -14,15 +14,16 @@
             h1 { text-align: center; color: #2c3e50; margin-bottom: 5px; }
             .subtitle { text-align: center; color: #7f8c8d; margin-bottom: 40px; }
             details { margin-bottom: 15px; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); overflow: hidden; }
-            summary { background: #2c3e50; color: white; padding: 15px 20px; cursor: pointer; font-size: 1.2em; font-weight: bold; display: flex; justify-content: space-between; align-items: center; list-style: none; }
+            summary { color: white; padding: 15px 20px; cursor: pointer; font-size: 1.2em; font-weight: bold; display: flex; justify-content: space-between; align-items: center; list-style: none; transition: filter 0.2s; }
+            summary:hover { filter: brightness(110%); }
             summary::-webkit-details-marker { display: none; }
-            summary:hover { background: #34495e; }
-            summary::after { content: '+'; font-size: 1.5em; font-weight: normal; }
+            summary::after { content: '+'; font-size: 1.5em; font-weight: normal; opacity: 0.7; }
             details[open] summary::after { content: '-'; }
-            .lang-count { background: rgba(255,255,255,0.2); padding: 2px 10px; border-radius: 12px; font-size: 0.7em; margin-left: 10px; vertical-align: middle; }
+            .lang-icon { margin-right: 10px; }
+            .lang-count { background: rgba(255,255,255,0.25); padding: 2px 10px; border-radius: 12px; font-size: 0.75em; margin-left: 10px; vertical-align: middle; }
             .content-wrapper { padding: 20px; background: #fafafa; border-top: 1px solid #eee; }
-            .card { background: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; border: 1px solid #eee; border-left: 4px solid #3498db; }
-            .card:hover { border-left-width: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+            .card { background: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; border: 1px solid #eee; border-left: 5px solid #ccc; }
+            .card:hover { border-left-width: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
             .header-row { display: flex; justify-content: space-between; font-size: 0.85em; color: #95a5a6; margin-bottom: 8px; }
             h3 { margin: 0 0 8px 0; font-size: 1.1em; }
             a { text-decoration: none; color: #2c3e50; }
@@ -35,10 +36,54 @@
         <p class="subtitle">Curated by AI • Updated Daily • <a href="https://github.com/xray55/free-coding-resources">View on GitHub</a></p>
     
         <details>
-            <summary><span>Java <span class="lang-count">12</span></span></summary>
+            <summary style="background-color: #092E20; color: white">
+                <span><span class="lang-icon">⛓️</span>Django <span class="lang-count" style="color: white">4</span></span>
+            </summary>
             <div class="content-wrapper">
         
-                <div class="card">
+                <div class="card" style="border-left-color: #092E20">
+                    <div class="header-row">
+                        <span>Documentation</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://docs.djangoproject.com/en/stable/" target="_blank">Django Documentation</a></h3>
+                    <p>Official documentation for Django, covering all aspects of the framework.</p>
+                </div>
+            
+                <div class="card" style="border-left-color: #092E20">
+                    <div class="header-row">
+                        <span>Documentation</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://django-admin-tools.readthedocs.io/en/latest/" target="_blank">Django Admin Tools Documentation</a></h3>
+                    <p>Documentation for Django Admin Tools, enhancing the admin interface.</p>
+                </div>
+            
+                <div class="card" style="border-left-color: #092E20">
+                    <div class="header-row">
+                        <span>Documentation</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://www.django-rest-framework.org/" target="_blank">Django REST Framework Documentation</a></h3>
+                    <p>Official documentation for Django REST Framework, a powerful and flexible toolkit for building Web APIs.</p>
+                </div>
+            
+                <div class="card" style="border-left-color: #092E20">
+                    <div class="header-row">
+                        <span>Tutorial</span>
+                        <span>2025-12-21</span>
+                    </div>
+                    <h3><a href="https://tutorial.djangogirls.org/en/" target="_blank">Django Girls Tutorial</a></h3>
+                    <p>A beginner-friendly tutorial for girls to learn web development with Django.</p>
+                </div>
+            </div></details>
+        <details>
+            <summary style="background-color: #007396; color: white">
+                <span><span class="lang-icon">☕</span>Java <span class="lang-count" style="color: white">12</span></span>
+            </summary>
+            <div class="content-wrapper">
+        
+                <div class="card" style="border-left-color: #007396">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -47,7 +92,7 @@
                     <p>A comprehensive guide to learning Java programming.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #007396">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -56,7 +101,7 @@
                     <p>An introductory book for beginners to learn Java programming.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #007396">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -65,7 +110,7 @@
                     <p>A guide on writing efficient and effective Java code.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #007396">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -74,7 +119,7 @@
                     <p>A book about concurrency in the Java programming language.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #007396">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -83,7 +128,7 @@
                     <p>A classic book on design patterns in software engineering.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #007396">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -92,7 +137,7 @@
                     <p>An interactive and engaging book for learning Java programming.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #007396">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -101,7 +146,7 @@
                     <p>A book on optimizing Java applications for better performance.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #007396">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -110,7 +155,7 @@
                     <p>A collection of Java programming puzzles to improve understanding.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #007396">
                     <div class="header-row">
                         <span>Online Resource</span>
                         <span>2025-12-21</span>
@@ -119,7 +164,7 @@
                     <p>Oracle's official guide to the Java programming language.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #007396">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -128,7 +173,7 @@
                     <p>A comprehensive book on the fundamentals of Java programming.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #007396">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -137,7 +182,7 @@
                     <p>A comprehensive book covering various aspects of Java programming.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #007396">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -147,10 +192,12 @@
                 </div>
             </div></details>
         <details>
-            <summary><span>Python <span class="lang-count">29</span></span></summary>
+            <summary style="background-color: #3776AB; color: white">
+                <span><span class="lang-icon">🐍</span>Python <span class="lang-count" style="color: white">29</span></span>
+            </summary>
             <div class="content-wrapper">
         
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Online Course</span>
                         <span>2025-12-21</span>
@@ -159,7 +206,7 @@
                     <p>A comprehensive set of free Python courses offered by freeCodeCamp, covering scientific computing and more.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Documentation</span>
                         <span>2025-12-21</span>
@@ -168,7 +215,7 @@
                     <p>Official documentation for Python 3, providing a tutorial and reference material for the language.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Tutorials</span>
                         <span>2025-12-21</span>
@@ -177,7 +224,7 @@
                     <p>A website offering detailed tutorials and guides on various Python topics, aimed at intermediate to advanced learners.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -186,7 +233,7 @@
                     <p>A book by Al Sweigart that teaches how to automate tasks using Python, suitable for beginners.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -195,7 +242,7 @@
                     <p>A comprehensive guide by Zed Shaw designed to teach Python through exercises and repetition.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -204,7 +251,7 @@
                     <p>A collection of tutorials on using Python for data science and machine learning.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -213,7 +260,7 @@
                     <p>A book by Eric Matthes that provides a concise introduction to Python programming for beginners.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Challenges</span>
                         <span>2025-12-21</span>
@@ -222,7 +269,7 @@
                     <p>A series of challenges and tutorials on Python provided by HackerRank, aimed at improving coding skills.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Online Course</span>
                         <span>2025-12-21</span>
@@ -231,7 +278,7 @@
                     <p>An interactive course on Codecademy that teaches the fundamentals of Python programming.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Online Course</span>
                         <span>2025-12-21</span>
@@ -240,7 +287,7 @@
                     <p>A specialization on Coursera that covers Python for data science, including data manipulation and analysis.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Online Course</span>
                         <span>2025-12-21</span>
@@ -249,7 +296,7 @@
                     <p>A collection of free Python courses available on Udemy, covering various topics from beginner to advanced levels.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Online Course</span>
                         <span>2025-12-21</span>
@@ -258,7 +305,7 @@
                     <p>An introductory course by Google that covers the basics of Python programming and its applications.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Best Free Book</span>
                         <span>2025-12-21</span>
@@ -267,7 +314,7 @@
                     <p>For mastering Python 3.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Best Free Book</span>
                         <span>2025-12-21</span>
@@ -276,7 +323,7 @@
                     <p>A guide for data scientists.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Best Free Book</span>
                         <span>2025-12-21</span>
@@ -285,7 +332,7 @@
                     <p>Clear, concise, and effective programming.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Best Free Book</span>
                         <span>2025-12-21</span>
@@ -294,7 +341,7 @@
                     <p>Powerful object-oriented programming.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Classic Book</span>
                         <span>2025-12-21</span>
@@ -303,7 +350,7 @@
                     <p>A comprehensive guide for beginners.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Legendary Documentation</span>
                         <span>2025-12-21</span>
@@ -312,7 +359,7 @@
                     <p>Comprehensive and authoritative.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -321,7 +368,7 @@
                     <p>A comprehensive guide to programming in Python, suitable for beginners.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -330,7 +377,7 @@
                     <p>An introduction to open-source software development using Python.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -339,7 +386,7 @@
                     <p>A beginner-friendly guide to programming with Python.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -348,7 +395,7 @@
                     <p>Teaches how to automate tasks using Python, useful for productivity and automation.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -357,7 +404,7 @@
                     <p>A detailed guide to learning Python with practical examples and exercises.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -366,7 +413,7 @@
                     <p>An introduction to computer science using Python, suitable for beginners.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -375,7 +422,7 @@
                     <p>A comprehensive reference for the Python language and its libraries.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -384,7 +431,7 @@
                     <p>An in-depth guide to writing idiomatic Python code, focusing on best practices and advanced features.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -393,7 +440,7 @@
                     <p>A comprehensive guide to using Python for various tasks, from web development to system administration.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -402,7 +449,7 @@
                     <p>A collection of practical recipes and solutions for using Python effectively.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -412,10 +459,12 @@
                 </div>
             </div></details>
         <details>
-            <summary><span>TypeScript <span class="lang-count">3</span></span></summary>
+            <summary style="background-color: #3178C6; color: white">
+                <span><span class="lang-icon">📘</span>TypeScript <span class="lang-count" style="color: white">3</span></span>
+            </summary>
             <div class="content-wrapper">
         
-                <div class="card">
+                <div class="card" style="border-left-color: #3178C6">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -424,7 +473,7 @@
                     <p>A comprehensive guide to learning TypeScript, covering various aspects of the language.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3178C6">
                     <div class="header-row">
                         <span>Book</span>
                         <span>2025-12-21</span>
@@ -433,7 +482,7 @@
                     <p>An in-depth handbook for mastering TypeScript, written by Dan Wellman.</p>
                 </div>
             
-                <div class="card">
+                <div class="card" style="border-left-color: #3178C6">
                     <div class="header-row">
                         <span>Documentation Tool</span>
                         <span>2025-12-21</span>
