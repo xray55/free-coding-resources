@@ -40,9 +40,9 @@
         "date_found": "2025-12-21"
     },
     {
-        "name": "Python for Data Science Handbook",
+        "name": "Python Data Science Handbook",
         "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
-        "description": "A book by Jake VanderPlas that covers data science with Python, including libraries like NumPy and pandas.",
+        "description": "A collection of tutorials on using Python for data science and machine learning.",
         "type": "Book",
         "language": "Python",
         "date_found": "2025-12-21"
@@ -140,6 +140,94 @@
         "url": "https://docs.python.org/3/",
         "description": "Comprehensive and authoritative.",
         "type": "Legendary Documentation",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Think Python (3rd Edition)",
+        "url": "https://greenteapress.com/wp/think-python-2e.pdf",
+        "description": "A comprehensive guide to programming in Python, suitable for beginners.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Open Data Structures: Introduction to Open-Source Software Development",
+        "url": "http://opendatastructures.org/ods-python.pdf",
+        "description": "An introduction to open-source software development using Python.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "A Byte of Python",
+        "url": "https://python.swaroopch.com/python-a-byte-of-python.pdf",
+        "description": "A beginner-friendly guide to programming with Python.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Automate the Boring Stuff with Python",
+        "url": "https://automatetheboringstuff.com/2e/",
+        "description": "Teaches how to automate tasks using Python, useful for productivity and automation.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Learning Python",
+        "url": "http://www.diveintopython3.net/",
+        "description": "A detailed guide to learning Python with practical examples and exercises.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Programming in Python 3: A Complete Introduction to Computer Science",
+        "url": "http://mcsp.wartburg.edu/zelle/python3/textbook.pdf",
+        "description": "An introduction to computer science using Python, suitable for beginners.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Python Essential Reference",
+        "url": "https://docs.python-guide.org/scenarios/pdf/",
+        "description": "A comprehensive reference for the Python language and its libraries.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Fluent Python",
+        "url": "https://fluents-python.com/",
+        "description": "An in-depth guide to writing idiomatic Python code, focusing on best practices and advanced features.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Dive into Python",
+        "url": "https://diveintopython3.net/",
+        "description": "A comprehensive guide to using Python for various tasks, from web development to system administration.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Python Cookbook",
+        "url": "https://python-3-cookbook.readthedocs.io/en/3.x/",
+        "description": "A collection of practical recipes and solutions for using Python effectively.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1",
+        "url": "http://www-cs-faculty.stanford.edu/~knuth/gfology/morris.pdf",
+        "description": "A comprehensive book on combinatorial algorithms by Donald E. Knuth.",
+        "type": "Book",
         "language": "Python",
         "date_found": "2025-12-21"
     }
