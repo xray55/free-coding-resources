@@ -1,0 +1,74 @@
+[
+    {
+        "name": "The Road to React",
+        "url": "https://roadtoreact.com/",
+        "description": "A comprehensive guide to learning React, covering everything from the basics to advanced topics.",
+        "type": "Guide",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "React Beginner's Handbook",
+        "url": "https://flaviocopes.com/react-handbook/",
+        "description": "An in-depth handbook for beginners, providing a solid foundation in React with practical examples.",
+        "type": "Handbook",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "React Documentation",
+        "url": "https://reactjs.org/docs/getting-started.html",
+        "description": "Official documentation covering all aspects of React, from components to state management.",
+        "type": "Documentation",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Create React App",
+        "url": "https://create-react-app.dev/docs/getting-started/",
+        "description": "A comfortable environment for learning React, allowing you to set up new projects quickly.",
+        "type": "Tooling",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "React Router",
+        "url": "https://reactrouter.com/en/main/start/tutorial",
+        "description": "A library for routing in React applications, enabling navigation between different views.",
+        "type": "Library",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Redux",
+        "url": "https://redux.js.org/introduction/getting-started",
+        "description": "A predictable state container for JavaScript apps, often used with React to manage global state.",
+        "type": "Library",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Context API",
+        "url": "https://reactjs.org/docs/context.html",
+        "description": "A way to pass data through the component tree without having to pass props down manually at every level.",
+        "type": "API",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Hooks API Reference",
+        "url": "https://reactjs.org/docs/hooks-reference.html",
+        "description": "Official reference for all hooks available in React, including useState, useEffect, and more.",
+        "type": "Reference",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "React Native Documentation",
+        "url": "https://reactnative.dev/docs/environment-setup",
+        "description": "Official documentation covering the setup and development of React Native applications.",
+        "type": "Documentation",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    }
+]
