@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Programming TypeScript (2019)",
+        "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+        "description": "A comprehensive guide to learning TypeScript, covering various aspects of the language.",
+        "type": "Book",
+        "language": "TypeScript",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Ultimate TypeScript Handbook by Dan Wellman",
+        "url": "https://github.com/danwells/ultimate-typescript-handbook",
+        "description": "An in-depth handbook for mastering TypeScript, written by Dan Wellman.",
+        "type": "Book",
+        "language": "TypeScript",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "TypeDoc",
+        "url": "https://typedoc.org/",
+        "description": "A documentation generator for TypeScript projects, automating the process of generating code documentation.",
+        "type": "Documentation Tool",
+        "language": "TypeScript",
+        "date_found": "2025-12-21"
+    }
+]
