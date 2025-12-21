@@ -32,14 +32,6 @@
         "date_found": "2025-12-21"
     },
     {
-        "name": "Learn Python the Hard Way",
-        "url": "https://learnpythonthehardway.org/book/",
-        "description": "A comprehensive guide by Zed Shaw designed to teach Python through exercises and repetition.",
-        "type": "Book",
-        "language": "Python",
-        "date_found": "2025-12-21"
-    },
-    {
         "name": "Python Data Science Handbook",
         "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
         "description": "A collection of tutorials on using Python for data science and machine learning.",
@@ -67,22 +59,6 @@
         "name": "Codecademy Python Track",
         "url": "https://www.codecademy.com/learn/learn-python-3",
         "description": "An interactive course on Codecademy that teaches the fundamentals of Python programming.",
-        "type": "Online Course",
-        "language": "Python",
-        "date_found": "2025-12-21"
-    },
-    {
-        "name": "Coursera - Python for Everybody Specialization",
-        "url": "https://www.coursera.org/specializations/python-data-science",
-        "description": "A specialization on Coursera that covers Python for data science, including data manipulation and analysis.",
-        "type": "Online Course",
-        "language": "Python",
-        "date_found": "2025-12-21"
-    },
-    {
-        "name": "Udemy Free Python Courses",
-        "url": "https://www.udemy.com/topic/python/",
-        "description": "A collection of free Python courses available on Udemy, covering various topics from beginner to advanced levels.",
         "type": "Online Course",
         "language": "Python",
         "date_found": "2025-12-21"
@@ -124,14 +100,6 @@
         "url": "https://www.oreilly.com/library/view/programming-python-5th/9780596158064/",
         "description": "Powerful object-oriented programming.",
         "type": "Best Free Book",
-        "language": "Python",
-        "date_found": "2025-12-21"
-    },
-    {
-        "name": "Learn Python the Hard Way",
-        "url": "https://learnpythonthehardway.org/python3/",
-        "description": "A comprehensive guide for beginners.",
-        "type": "Classic Book",
         "language": "Python",
         "date_found": "2025-12-21"
     },
