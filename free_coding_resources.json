@@ -1,0 +1,362 @@
+[
+    {
+        "name": "freeCodeCamp Python Courses",
+        "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+        "description": "A comprehensive set of free Python courses offered by freeCodeCamp, covering scientific computing and more.",
+        "type": "Online Course",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Python.org Documentation",
+        "url": "https://docs.python.org/3/tutorial/index.html",
+        "description": "Official documentation for Python 3, providing a tutorial and reference material for the language.",
+        "type": "Documentation",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Real Python Tutorials",
+        "url": "https://realpython.com/",
+        "description": "A website offering detailed tutorials and guides on various Python topics, aimed at intermediate to advanced learners.",
+        "type": "Tutorials",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Python Data Science Handbook",
+        "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+        "description": "A collection of tutorials on using Python for data science and machine learning.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Python Crash Course",
+        "url": "https://ehmatthes.github.io/pcc_2e/index.html",
+        "description": "A book by Eric Matthes that provides a concise introduction to Python programming for beginners.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "HackerRank Python Challenges",
+        "url": "https://www.hackerrank.com/domains/tutorials/10-days-of-python",
+        "description": "A series of challenges and tutorials on Python provided by HackerRank, aimed at improving coding skills.",
+        "type": "Challenges",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Codecademy Python Track",
+        "url": "https://www.codecademy.com/learn/learn-python-3",
+        "description": "An interactive course on Codecademy that teaches the fundamentals of Python programming.",
+        "type": "Online Course",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Google's Python Class",
+        "url": "https://developers.google.com/edu/python",
+        "description": "An introductory course by Google that covers the basics of Python programming and its applications.",
+        "type": "Online Course",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Introduction to Java Programming",
+        "url": "https://books.trinket.io/pd/java/intro.html",
+        "description": "A comprehensive guide to learning Java programming.",
+        "type": "Book",
+        "language": "Java",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Java: A Beginner's Guide",
+        "url": "https://www.gutenberg.org/ebooks/50343",
+        "description": "An introductory book for beginners to learn Java programming.",
+        "type": "Book",
+        "language": "Java",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Effective Java",
+        "url": "https://jbloch.github.io/effective-java/",
+        "description": "A guide on writing efficient and effective Java code.",
+        "type": "Book",
+        "language": "Java",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Java Concurrency in Practice",
+        "url": "https://jcip.net/",
+        "description": "A book about concurrency in the Java programming language.",
+        "type": "Book",
+        "language": "Java",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "url": "http://www.gofpatterns.com/",
+        "description": "A classic book on design patterns in software engineering.",
+        "type": "Book",
+        "language": "Java",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Java Puzzlers: Traps, Pitfalls, and Corner Cases",
+        "url": "https://java.sun.com/docs/books/puzzlers/",
+        "description": "A collection of Java programming puzzles to improve understanding.",
+        "type": "Book",
+        "language": "Java",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "The Java Programming Language",
+        "url": "https://docs.oracle.com/javase/tutorial/",
+        "description": "Oracle's official guide to the Java programming language.",
+        "type": "Online Resource",
+        "language": "Java",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Java 8 in Action",
+        "url": "https://www.manning.com/books/java-8-in-action",
+        "description": "A guide on using the new features and improvements in Java 8.",
+        "type": "Book",
+        "language": "Java",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "The official Python Documentation",
+        "url": "https://docs.python.org/3/",
+        "description": "Comprehensive and authoritative.",
+        "type": "Legendary Documentation",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Open Data Structures: Introduction to Open-Source Software Development",
+        "url": "http://opendatastructures.org/ods-python.pdf",
+        "description": "An introduction to open-source software development using Python.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "A Byte of Python",
+        "url": "https://python.swaroopch.com/python-a-byte-of-python.pdf",
+        "description": "A beginner-friendly guide to programming with Python.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Learning Python",
+        "url": "http://www.diveintopython3.net/",
+        "description": "A detailed guide to learning Python with practical examples and exercises.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Programming in Python 3: A Complete Introduction to Computer Science",
+        "url": "http://mcsp.wartburg.edu/zelle/python3/textbook.pdf",
+        "description": "An introduction to computer science using Python, suitable for beginners.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Python Essential Reference",
+        "url": "https://docs.python-guide.org/scenarios/pdf/",
+        "description": "A comprehensive reference for the Python language and its libraries.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Fluent Python",
+        "url": "https://fluents-python.com/",
+        "description": "An in-depth guide to writing idiomatic Python code, focusing on best practices and advanced features.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Dive into Python",
+        "url": "https://diveintopython3.net/",
+        "description": "A comprehensive guide to using Python for various tasks, from web development to system administration.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Python Cookbook",
+        "url": "https://python-3-cookbook.readthedocs.io/en/3.x/",
+        "description": "A collection of practical recipes and solutions for using Python effectively.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1",
+        "url": "http://www-cs-faculty.stanford.edu/~knuth/gfology/morris.pdf",
+        "description": "A comprehensive book on combinatorial algorithms by Donald E. Knuth.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Programming TypeScript (2019)",
+        "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+        "description": "A comprehensive guide to learning TypeScript, covering various aspects of the language.",
+        "type": "Book",
+        "language": "TypeScript",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Ultimate TypeScript Handbook by Dan Wellman",
+        "url": "https://github.com/danwells/ultimate-typescript-handbook",
+        "description": "An in-depth handbook for mastering TypeScript, written by Dan Wellman.",
+        "type": "Book",
+        "language": "TypeScript",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "TypeDoc",
+        "url": "https://typedoc.org/",
+        "description": "A documentation generator for TypeScript projects, automating the process of generating code documentation.",
+        "type": "Documentation Tool",
+        "language": "TypeScript",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Django Documentation",
+        "url": "https://docs.djangoproject.com/en/stable/",
+        "description": "Official documentation for Django, covering all aspects of the framework.",
+        "type": "Documentation",
+        "language": "Django",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Django Admin Tools Documentation",
+        "url": "https://django-admin-tools.readthedocs.io/en/latest/",
+        "description": "Documentation for Django Admin Tools, enhancing the admin interface.",
+        "type": "Documentation",
+        "language": "Django",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Django REST Framework Documentation",
+        "url": "https://www.django-rest-framework.org/",
+        "description": "Official documentation for Django REST Framework, a powerful and flexible toolkit for building Web APIs.",
+        "type": "Documentation",
+        "language": "Django",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Django Girls Tutorial",
+        "url": "https://tutorial.djangogirls.org/en/",
+        "description": "A beginner-friendly tutorial for girls to learn web development with Django.",
+        "type": "Tutorial",
+        "language": "Django",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "The Go Programming Language",
+        "url": "https://golang.org/doc/effective_go.pdf",
+        "description": "A comprehensive guide to the Go programming language by Alan Donovan and Brian Kernighan.",
+        "type": "Book",
+        "language": "Go",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Programming in Go: Creating Applications with Golang",
+        "url": "https://www.golang-book.com/books/intro",
+        "description": "An introductory book to Go, covering the basics and advanced topics.",
+        "type": "Book",
+        "language": "Go",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Go Concurrency Patterns",
+        "url": "https://talks.golang.org/2013/concurrency.slide#1",
+        "description": "A presentation by Rob Pike on concurrency patterns in Go.",
+        "type": "Presentation",
+        "language": "Go",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "The Road to React",
+        "url": "https://roadtoreact.com/",
+        "description": "A comprehensive guide to learning React, covering everything from the basics to advanced topics.",
+        "type": "Guide",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "React Beginner's Handbook",
+        "url": "https://flaviocopes.com/react-handbook/",
+        "description": "An in-depth handbook for beginners, providing a solid foundation in React with practical examples.",
+        "type": "Handbook",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "React Documentation",
+        "url": "https://reactjs.org/docs/getting-started.html",
+        "description": "Official documentation covering all aspects of React, from components to state management.",
+        "type": "Documentation",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Create React App",
+        "url": "https://create-react-app.dev/docs/getting-started/",
+        "description": "A comfortable environment for learning React, allowing you to set up new projects quickly.",
+        "type": "Tooling",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "React Router",
+        "url": "https://reactrouter.com/en/main/start/tutorial",
+        "description": "A library for routing in React applications, enabling navigation between different views.",
+        "type": "Library",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Redux",
+        "url": "https://redux.js.org/introduction/getting-started",
+        "description": "A predictable state container for JavaScript apps, often used with React to manage global state.",
+        "type": "Library",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Context API",
+        "url": "https://reactjs.org/docs/context.html",
+        "description": "A way to pass data through the component tree without having to pass props down manually at every level.",
+        "type": "API",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Hooks API Reference",
+        "url": "https://reactjs.org/docs/hooks-reference.html",
+        "description": "Official reference for all hooks available in React, including useState, useEffect, and more.",
+        "type": "Reference",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "React Native Documentation",
+        "url": "https://reactnative.dev/docs/environment-setup",
+        "description": "Official documentation covering the setup and development of React Native applications.",
+        "type": "Documentation",
+        "language": "React.js",
+        "date_found": "2025-12-21"
+    }
+]
