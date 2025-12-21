@@ -1,0 +1,98 @@
+[
+    {
+        "name": "freeCodeCamp Python Courses",
+        "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+        "description": "A comprehensive set of free Python courses offered by freeCodeCamp, covering scientific computing and more.",
+        "type": "Online Course",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Python.org Documentation",
+        "url": "https://docs.python.org/3/tutorial/index.html",
+        "description": "Official documentation for Python 3, providing a tutorial and reference material for the language.",
+        "type": "Documentation",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Real Python Tutorials",
+        "url": "https://realpython.com/",
+        "description": "A website offering detailed tutorials and guides on various Python topics, aimed at intermediate to advanced learners.",
+        "type": "Tutorials",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Automate the Boring Stuff with Python",
+        "url": "https://automatetheboringstuff.com/",
+        "description": "A book by Al Sweigart that teaches how to automate tasks using Python, suitable for beginners.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Learn Python the Hard Way",
+        "url": "https://learnpythonthehardway.org/book/",
+        "description": "A comprehensive guide by Zed Shaw designed to teach Python through exercises and repetition.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Python for Data Science Handbook",
+        "url": "https://jakevdp.github.io/PythonDataScienceHandbook/",
+        "description": "A book by Jake VanderPlas that covers data science with Python, including libraries like NumPy and pandas.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Python Crash Course",
+        "url": "https://ehmatthes.github.io/pcc_2e/index.html",
+        "description": "A book by Eric Matthes that provides a concise introduction to Python programming for beginners.",
+        "type": "Book",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "HackerRank Python Challenges",
+        "url": "https://www.hackerrank.com/domains/tutorials/10-days-of-python",
+        "description": "A series of challenges and tutorials on Python provided by HackerRank, aimed at improving coding skills.",
+        "type": "Challenges",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Codecademy Python Track",
+        "url": "https://www.codecademy.com/learn/learn-python-3",
+        "description": "An interactive course on Codecademy that teaches the fundamentals of Python programming.",
+        "type": "Online Course",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Coursera - Python for Everybody Specialization",
+        "url": "https://www.coursera.org/specializations/python-data-science",
+        "description": "A specialization on Coursera that covers Python for data science, including data manipulation and analysis.",
+        "type": "Online Course",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Udemy Free Python Courses",
+        "url": "https://www.udemy.com/topic/python/",
+        "description": "A collection of free Python courses available on Udemy, covering various topics from beginner to advanced levels.",
+        "type": "Online Course",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    },
+    {
+        "name": "Google's Python Class",
+        "url": "https://developers.google.com/edu/python",
+        "description": "An introductory course by Google that covers the basics of Python programming and its applications.",
+        "type": "Online Course",
+        "language": "Python",
+        "date_found": "2025-12-21"
+    }
+]
