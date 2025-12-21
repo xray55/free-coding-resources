@@ -192,14 +192,6 @@
         "date_found": "2025-12-21"
     },
     {
-        "name": "Python Cookbook",
-        "url": "https://python-3-cookbook.readthedocs.io/en/3.x/",
-        "description": "A collection of practical recipes and solutions for using Python effectively.",
-        "type": "Book",
-        "language": "Python",
-        "date_found": "2025-12-21"
-    },
-    {
         "name": "The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1",
         "url": "http://www-cs-faculty.stanford.edu/~knuth/gfology/morris.pdf",
         "description": "A comprehensive book on combinatorial algorithms by Donald E. Knuth.",
