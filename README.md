@@ -2,7 +2,7 @@
 # 📚 Free Coding Resources (AI-Curated)
 
 [![Daily Updates](https://img.shields.io/badge/Updates-Daily-brightgreen.svg?style=flat-square)](https://xray55.github.io/free-coding-resources/)
-[![Total Resources](https://img.shields.io/badge/Resources-30-blue.svg?style=flat-square)](https://xray55.github.io/free-coding-resources/)
+[![Total Resources](https://img.shields.io/badge/Resources-41-blue.svg?style=flat-square)](https://xray55.github.io/free-coding-resources/)
 [![Built With](https://img.shields.io/badge/Built%20With-CrewAI-blueviolet.svg?style=flat-square)](https://www.crewai.com/)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg?style=flat-square)](LICENSE)
 
@@ -15,15 +15,15 @@ This repository is maintained by a specialized fleet of AI Agents running locall
 ---
 
 ## 📊 Live Stats
-* **Total Resources Archived:** `30`
-* **Last Agent Run:** `2025-12-21 12:46`
+* **Total Resources Archived:** `41`
+* **Last Agent Run:** `2025-12-21 13:11`
 
 ---
 
 ## 🤖 How It Works
 This project runs on a completely autonomous loop:
 1.  **Trigger:** Windows Task Scheduler wakes up the Python kernel.
-2.  **The Hunt:** A `Hunter Agent` (powered by Ollama/Qwen) searches for high-quality resources for a specific language (Python, Rust, C++, etc.).
+2.  **The Hunt:** A `Hunter Agent` (powered by Ollama/Qwen) searches for high-quality resources for a specific language (Python, React, Node.js, etc.).
 3.  **Verification:** The AI filters fake links and validates the quality (1950s–Present).
 4.  **Deployment:** The system rebuilds the static HTML dashboard and pushes the results to GitHub Pages.
 
