@@ -14,21 +14,20 @@ This repository is maintained by a specialized fleet of AI Agents running locall
 
 ---
 ## 📰 Latest Dispatch (AI Editor)
-> *System Startup: Synchronizing local database.*
+> *System Restarted. Library holds 48 items.*
 
 ---
 ## 📊 Live Stats
 * **Total Resources Archived:** `48`
-* **Last Agent Run:** `2025-12-21 20:48`
-* **Next Scheduled Run:** `Pending...` ⏳
+* **Last Agent Run:** `2025-12-21 20:56`
+* **Next Scheduled Run:** `2025-12-22 02:00` ⏳
 
 ---
 ## 🤖 How It Works
-1.  **Trigger:** Task Scheduler wakes up the Python kernel.
-2.  **The Hunter:** A `Hunter Agent` (Ollama/Qwen) searches specifically for PDF documentation and verified courses (Prioritizing WeLib).
-3.  **The Reviewer:** A `Reviewer Agent` checks edition numbers and user reviews to reject outdated content.
-4.  **The Editor:** A `Chief Editor Agent` updates this README with the latest highlights.
-5.  **Deployment:** The system rebuilds the static HTML dashboard and pushes to GitHub Pages.
+1.  **The Hunter:** A `Hunter Agent` (Ollama/Qwen) searches specifically for verified PDFs and documentation.
+2.  **The Reviewer:** A `Reviewer Agent` checks edition numbers and user reviews.
+3.  **The Editor:** A `Chief Editor Agent` updates this README with a summary of the latest finds.
+4.  **Deployment:** The system rebuilds the static HTML dashboard and pushes to GitHub Pages.
 
 ---
 *Curated with ❤️ by Silicon & Code.*
