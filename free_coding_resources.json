@@ -382,5 +382,37 @@
         "type": "",
         "language": "Vue.js",
         "date_found": "2025-12-21"
+    },
+    {
+        "name": "The Rust Programming Language (Official Book)",
+        "url": "https://doc.rust-lang.org/book/",
+        "description": "The official book for learning the Rust programming language.",
+        "type": "Documentation",
+        "language": "Rust",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "Rust by Example",
+        "url": "https://doc.rust-lang.org/rust-by-example/",
+        "description": "A collection of short examples that illustrate various aspects of the Rust language and standard library.",
+        "type": "Documentation",
+        "language": "Rust",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "The Rustonomicon",
+        "url": "https://doc.rust-lang.org/nomicon/",
+        "description": "Advanced topics in Rust, including its memory safety story, systems programming, and unsafe code.",
+        "type": "Documentation",
+        "language": "Rust",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "Learning Rust with Entirely Too Many Linked Lists",
+        "url": "https://github.com/rust-unofficial/too-many-linked-lists",
+        "description": "A series of exercises that teach Rust programming by implementing various linked list data structures.",
+        "type": "Tutorial",
+        "language": "Rust",
+        "date_found": "2025-12-22"
     }
 ]
