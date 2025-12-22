@@ -470,5 +470,45 @@
         "type": "PDF",
         "language": "Node.js",
         "date_found": "2025-12-22"
+    },
+    {
+        "name": "A practical hacker's guide to the C programming language",
+        "url": "https://github.com/practicalhacker/hackers-guide-to-c",
+        "description": "A practical hacker's guide to the C programming language.",
+        "type": "GitHub Repository",
+        "language": "C Programming",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "C Programming, System programming with C, Fundamentals, Memory Management, Embedded Systems",
+        "url": "https://github.com/Pragmatics/C-Programming",
+        "description": "A comprehensive guide to C programming covering fundamentals, memory management, and embedded systems.",
+        "type": "GitHub Repository",
+        "language": "C Programming",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "A comprehensive guide to the C programming language (PDF)",
+        "url": "http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf",
+        "description": "The official documentation for the C programming language in PDF format.",
+        "type": "Official Documentation PDF",
+        "language": "C Programming",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "C API documentation with instant search, offline support",
+        "url": "https://en.cppreference.com/w/c",
+        "description": "C API documentation with features like instant search and offline support.",
+        "type": "Online Documentation",
+        "language": "C Programming",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "The C Programming Language (PDF)",
+        "url": "https://www.gutenberg.org/ebooks/30304",
+        "description": "A free eBook version of 'The C Programming Language'.",
+        "type": "Free EBook",
+        "language": "C Programming",
+        "date_found": "2025-12-22"
     }
 ]
