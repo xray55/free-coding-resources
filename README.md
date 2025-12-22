@@ -19,13 +19,13 @@ This repository is maintained by a specialized fleet of AI Agents running locall
 ---
 ## 📊 Live Stats
 * **Total Resources Archived:** `48`
-* **Last Agent Run:** `2025-12-21 20:56`
+* **Last Agent Run:** `2025-12-21 21:05`
 * **Next Scheduled Run:** `2025-12-22 02:00` ⏳
 
 ---
 ## 🤖 How It Works
-1.  **The Hunter:** A `Hunter Agent` (Ollama/Qwen) searches specifically for verified PDFs and documentation.
-2.  **The Reviewer:** A `Reviewer Agent` checks edition numbers and user reviews.
+1.  **The Hunter:** A `Hunter Agent` searches for official documentation, GitHub "Awesome" lists, and free verified books. It uses archives like WeLib only as a backup.
+2.  **The Reviewer:** A `Reviewer Agent` checks edition numbers and user reviews to reject outdated content.
 3.  **The Editor:** A `Chief Editor Agent` updates this README with a summary of the latest finds.
 4.  **Deployment:** The system rebuilds the static HTML dashboard and pushes to GitHub Pages.
 
