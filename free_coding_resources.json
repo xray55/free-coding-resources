@@ -414,5 +414,61 @@
         "type": "Tutorial",
         "language": "Rust",
         "date_found": "2025-12-22"
+    },
+    {
+        "name": "C# Programming in easy steps",
+        "url": "http://www.welib.org/CSharpProgrammingInEasySteps",
+        "description": "The latest edition of 'C# Programming in easy steps' is the 3rd edition, updated for Visual Studio 2022.",
+        "type": "Book",
+        "language": "C#",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "Professional C# and .NET: 2021 Edition",
+        "url": "http://www.welib.org/ProfessionalCSharpAndNet2021Edition",
+        "description": "",
+        "type": "Book",
+        "language": "C#",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "C# Essentials",
+        "url": "http://www.welib.org/CSharpEssentials",
+        "description": "",
+        "type": "Book",
+        "language": "C#",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "NodeJS Notes For Professionals",
+        "url": "https://drive.google.com/file/d/0B7r8GzYnK5b9cEJ0ZkR2aXNtTjA/view",
+        "description": "The latest edition of NodeJS Notes For Professionals is the 5th Edition published in March 2025.",
+        "type": "PDF",
+        "language": "Node.js",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "Learning Node.js \u2013 PDF Books",
+        "url": "http://www.coreservlets.com/nodejs-tutorial.html",
+        "description": "A collection of resources for learning Node.js in PDF format.",
+        "type": "PDF",
+        "language": "Node.js",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "Mixu\u2019s Node book",
+        "url": "http://book.mixu.net/node.pdf",
+        "description": "API documentation for Node.js in PDF format.",
+        "type": "PDF",
+        "language": "Node.js",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "Practical Node.js",
+        "url": "https://github.com/azat-co/nodejs-the-right-way/raw/master/book.pdf",
+        "description": "A guide to getting started with Node.js, npm, Web Apps With Express, Filesystem I/O, Exporting and Consuming Modules, Exporting and Importing Module in node.js, How modules are loaded, Cluster Module, Readline, package.json, Event Emitters, Autoreload on changes, Environment, http and more.",
+        "type": "PDF",
+        "language": "Node.js",
+        "date_found": "2025-12-22"
     }
 ]
