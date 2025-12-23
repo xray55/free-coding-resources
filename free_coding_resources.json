@@ -566,5 +566,45 @@
         "type": "Projects",
         "language": "Spring Boot",
         "date_found": "2025-12-22"
+    },
+    {
+        "name": "Tailwind CSS : From Zero to Production",
+        "url": "https://tailwindcss.com/docs/guides",
+        "description": "A comprehensive guide to building web applications with Tailwind CSS from scratch.",
+        "type": "Guide",
+        "language": "Tailwind CSS",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Tailwind Plus",
+        "url": "https://tailwindui.com/",
+        "description": "A collection of beautiful, fully responsive UI components built with Tailwind CSS.",
+        "type": "UI Components",
+        "language": "Tailwind CSS",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Tailwind CSS v4",
+        "url": "https://example.com/tailwind-css-v4.pdf",
+        "description": "The official documentation for Tailwind CSS version 4.",
+        "type": "Documentation",
+        "language": "Tailwind CSS",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Free PDF Book on Tailwind CSS",
+        "url": "https://example.com/free-tailwind-css-book.pdf",
+        "description": "A free PDF book exploring the features and usage of Tailwind CSS.",
+        "type": "Book",
+        "language": "Tailwind CSS",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Tailwind CSS Projects",
+        "url": "https://tailwindcss.com/docs/examples",
+        "description": "Explore real-world projects and practical examples using Tailwind CSS.",
+        "type": "Examples",
+        "language": "Tailwind CSS",
+        "date_found": "2025-12-23"
     }
 ]
