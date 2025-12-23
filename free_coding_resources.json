@@ -366,5 +366,45 @@
         "type": "Repository",
         "language": "C++",
         "date_found": "2025-12-23"
+    },
+    {
+        "name": "Microsoft's Official C# Documentation",
+        "url": "https://docs.microsoft.com/en-us/dotnet/csharp/",
+        "description": "The official documentation for C#, providing detailed information on language features, tools, and best practices.",
+        "type": "Official Documentation",
+        "language": "C#",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Vue.js Official Documentation",
+        "url": "https://vuejs.org/v2/guide/",
+        "description": "The official documentation for Vue.js 2, which is no longer supported.",
+        "type": "Documentation",
+        "language": "Vue.js",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "The Go Programming Language Specification",
+        "url": "https://golang.org/ref/spec",
+        "description": "",
+        "type": "",
+        "language": "Go",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Go in Action",
+        "url": "https://www.manning.com/books/go-in-action-second-edition",
+        "description": "",
+        "type": "",
+        "language": "Go",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Effective Go",
+        "url": "https://golang.org/doc/effective_go.html",
+        "description": "",
+        "type": "",
+        "language": "Go",
+        "date_found": "2025-12-23"
     }
 ]
