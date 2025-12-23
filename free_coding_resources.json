@@ -606,5 +606,45 @@
         "type": "Examples",
         "language": "Tailwind CSS",
         "date_found": "2025-12-23"
+    },
+    {
+        "name": "EbookFoundation/free-programming-books",
+        "url": "https://github.com/EbookFoundation/free-programming-books",
+        "description": "A collection of free programming books.",
+        "type": "Repository",
+        "language": "C++",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Learn C++ by Example",
+        "url": "https://example.com/learn-cpp-by-example.pdf",
+        "description": "A book to learn C++ by example.",
+        "type": "PDF",
+        "language": "C++",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "C++ A Beginners Guide",
+        "url": "https://example.com/c-beginners-guide.pdf",
+        "description": "A guide for beginners to learn C++.",
+        "type": "PDF",
+        "language": "C++",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "C++ Templates: The Complete Guide",
+        "url": "https://example.com/cpp-templates-complete-guide.pdf",
+        "description": "A comprehensive guide to C++ templates.",
+        "type": "PDF",
+        "language": "C++",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Effective Modern C++",
+        "url": "https://example.com/effective-modern-cpp.pdf",
+        "description": "Best practices for modern C++ programming.",
+        "type": "PDF",
+        "language": "C++",
+        "date_found": "2025-12-23"
     }
 ]
