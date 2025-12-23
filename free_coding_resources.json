@@ -510,5 +510,61 @@
         "type": "Free EBook",
         "language": "C Programming",
         "date_found": "2025-12-22"
+    },
+    {
+        "name": "Learning Tailwind CSS 4 Essential Training",
+        "url": "https://www.linkedin.com/learning/tailwind-css-4-essential-training",
+        "description": "A LinkedIn Learning course that provides essential training for learning Tailwind CSS.",
+        "type": "book",
+        "language": "Tailwind CSS",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "C++ Programming Language",
+        "url": "https://web.archive.org/web/20230908004456/http://www.stroustrup.com/C++.html",
+        "description": "",
+        "type": "",
+        "language": "C++",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "The C++ Standard Library",
+        "url": "https://en.cppreference.com/w/",
+        "description": "",
+        "type": "",
+        "language": "C++",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "Spring Boot : Up & Running",
+        "url": "https://www.manning.com/books/spring-boot-up-and-running",
+        "description": "",
+        "type": "Book",
+        "language": "Spring Boot",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "Official Spring Boot Documentation",
+        "url": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/",
+        "description": "",
+        "type": "Documentation",
+        "language": "Spring Boot",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "Spring Boot 3.0 Migration Guide",
+        "url": "https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.0-Migration-Guide",
+        "description": "",
+        "type": "Guide",
+        "language": "Spring Boot",
+        "date_found": "2025-12-22"
+    },
+    {
+        "name": "Spring Boot Sample Projects",
+        "url": "https://spring.io/projects/spring-boot#learn",
+        "description": "",
+        "type": "Projects",
+        "language": "Spring Boot",
+        "date_found": "2025-12-22"
     }
 ]
