@@ -9,49 +9,17 @@
             body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 0 auto; padding: 20px; background: #f0f2f5; color: #333; }
             h1 { text-align: center; color: #2c3e50; margin-bottom: 5px; }
             .subtitle { text-align: center; color: #7f8c8d; margin-bottom: 40px; }
-
             details { margin-bottom: 15px; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); overflow: hidden; }
-
             summary { 
-                color: white; 
-                padding: 15px 20px; 
-                cursor: pointer; 
-                font-size: 1.2em; 
-                font-weight: bold; 
-                list-style: none; 
-                transition: filter 0.2s; 
-
-                /* FLEXBOX MAGIC FOR ALIGNMENT */
-                display: flex; 
-                justify-content: space-between; 
-                align-items: center; 
+                color: white; padding: 15px 20px; cursor: pointer; font-size: 1.2em; font-weight: bold; list-style: none; transition: filter 0.2s; 
+                display: flex; justify-content: space-between; align-items: center; 
             }
-
             summary:hover { filter: brightness(110%); }
             summary::-webkit-details-marker { display: none; }
-
-            /* THE PERFECTLY CENTERED PLUS SIGN */
             summary::after { 
-                content: '+'; 
-                font-size: 1.5em; 
-                font-weight: 400; 
-                opacity: 0.8;
-
-                /* Force the sign into a flex box to center it ignoring text baseline */
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                width: 30px;
-                height: 30px;
-                line-height: 1;
-                padding-bottom: 3px; /* Tiny nudge to fix Segoe UI font offset */
+                content: '+'; font-size: 1.5em; font-weight: 400; opacity: 0.8; display: flex; align-items: center; justify-content: center; width: 30px; height: 30px; line-height: 1; padding-bottom: 3px; 
             }
-
-            details[open] summary::after { 
-                content: '-'; 
-                padding-bottom: 5px; /* Adjust minus separately */
-            }
-
+            details[open] summary::after { content: '-'; padding-bottom: 5px; }
             .lang-icon { margin-right: 10px; }
             .lang-count { background: rgba(255,255,255,0.25); padding: 2px 10px; border-radius: 12px; font-size: 0.75em; margin-left: 10px; vertical-align: middle; }
             .content-wrapper { padding: 20px; background: #fafafa; border-top: 1px solid #eee; }
@@ -70,28 +38,10 @@
     
         <details>
             <summary style="background-color: #555555; color: white">
-                <span><span class="lang-icon">💻</span>C Programming <span class="lang-count" style="color:inherit">5</span></span>
+                <span><span class="lang-icon">💻</span>C Programming <span class="lang-count" style="color:inherit">3</span></span>
             </summary>
             <div class="content-wrapper">
         
-                <div class="card" style="border-left-color: #555555">
-                    <div class="header-row">
-                        <span>GitHub Repository</span>
-                        <span>2025-12-22</span>
-                    </div>
-                    <h3><a href="https://github.com/practicalhacker/hackers-guide-to-c" target="_blank">A practical hacker's guide to the C programming language</a></h3>
-                    <p>A practical hacker's guide to the C programming language.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #555555">
-                    <div class="header-row">
-                        <span>GitHub Repository</span>
-                        <span>2025-12-22</span>
-                    </div>
-                    <h3><a href="https://github.com/Pragmatics/C-Programming" target="_blank">C Programming, System programming with C, Fundamentals, Memory Management, Embedded Systems</a></h3>
-                    <p>A comprehensive guide to C programming covering fundamentals, memory management, and embedded systems.</p>
-                </div>
-            
                 <div class="card" style="border-left-color: #555555">
                     <div class="header-row">
                         <span>Official Documentation PDF</span>
@@ -120,41 +70,8 @@
                 </div>
             </div></details>
         <details>
-            <summary style="background-color: #239120; color: white">
-                <span><span class="lang-icon">#️⃣</span>C# <span class="lang-count" style="color:inherit">3</span></span>
-            </summary>
-            <div class="content-wrapper">
-        
-                <div class="card" style="border-left-color: #239120">
-                    <div class="header-row">
-                        <span>Book</span>
-                        <span>2025-12-22</span>
-                    </div>
-                    <h3><a href="http://www.welib.org/CSharpProgrammingInEasySteps" target="_blank">C# Programming in easy steps</a></h3>
-                    <p>The latest edition of 'C# Programming in easy steps' is the 3rd edition, updated for Visual Studio 2022.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #239120">
-                    <div class="header-row">
-                        <span>Book</span>
-                        <span>2025-12-22</span>
-                    </div>
-                    <h3><a href="http://www.welib.org/ProfessionalCSharpAndNet2021Edition" target="_blank">Professional C# and .NET: 2021 Edition</a></h3>
-                    <p></p>
-                </div>
-            
-                <div class="card" style="border-left-color: #239120">
-                    <div class="header-row">
-                        <span>Book</span>
-                        <span>2025-12-22</span>
-                    </div>
-                    <h3><a href="http://www.welib.org/CSharpEssentials" target="_blank">C# Essentials</a></h3>
-                    <p></p>
-                </div>
-            </div></details>
-        <details>
             <summary style="background-color: #00599C; color: white">
-                <span><span class="lang-icon">🚀</span>C++ <span class="lang-count" style="color:inherit">7</span></span>
+                <span><span class="lang-icon">🚀</span>C++ <span class="lang-count" style="color:inherit">3</span></span>
             </summary>
             <div class="content-wrapper">
         
@@ -165,42 +82,6 @@
                     </div>
                     <h3><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">EbookFoundation/free-programming-books</a></h3>
                     <p>A collection of free programming books.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #00599C">
-                    <div class="header-row">
-                        <span>PDF</span>
-                        <span>2025-12-23</span>
-                    </div>
-                    <h3><a href="https://example.com/learn-cpp-by-example.pdf" target="_blank">Learn C++ by Example</a></h3>
-                    <p>A book to learn C++ by example.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #00599C">
-                    <div class="header-row">
-                        <span>PDF</span>
-                        <span>2025-12-23</span>
-                    </div>
-                    <h3><a href="https://example.com/c-beginners-guide.pdf" target="_blank">C++ A Beginners Guide</a></h3>
-                    <p>A guide for beginners to learn C++.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #00599C">
-                    <div class="header-row">
-                        <span>PDF</span>
-                        <span>2025-12-23</span>
-                    </div>
-                    <h3><a href="https://example.com/cpp-templates-complete-guide.pdf" target="_blank">C++ Templates: The Complete Guide</a></h3>
-                    <p>A comprehensive guide to C++ templates.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #00599C">
-                    <div class="header-row">
-                        <span>PDF</span>
-                        <span>2025-12-23</span>
-                    </div>
-                    <h3><a href="https://example.com/effective-modern-cpp.pdf" target="_blank">Effective Modern C++</a></h3>
-                    <p>Best practices for modern C++ programming.</p>
                 </div>
             
                 <div class="card" style="border-left-color: #00599C">
@@ -264,41 +145,8 @@
                 </div>
             </div></details>
         <details>
-            <summary style="background-color: #00ADD8; color: #333">
-                <span><span class="lang-icon">🐹</span>Go <span class="lang-count" style="color:inherit">3</span></span>
-            </summary>
-            <div class="content-wrapper">
-        
-                <div class="card" style="border-left-color: #00ADD8">
-                    <div class="header-row">
-                        <span>Book</span>
-                        <span>2025-12-21</span>
-                    </div>
-                    <h3><a href="https://golang.org/doc/effective_go.pdf" target="_blank">The Go Programming Language</a></h3>
-                    <p>A comprehensive guide to the Go programming language by Alan Donovan and Brian Kernighan.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #00ADD8">
-                    <div class="header-row">
-                        <span>Book</span>
-                        <span>2025-12-21</span>
-                    </div>
-                    <h3><a href="https://www.golang-book.com/books/intro" target="_blank">Programming in Go: Creating Applications with Golang</a></h3>
-                    <p>An introductory book to Go, covering the basics and advanced topics.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #00ADD8">
-                    <div class="header-row">
-                        <span>Presentation</span>
-                        <span>2025-12-21</span>
-                    </div>
-                    <h3><a href="https://talks.golang.org/2013/concurrency.slide#1" target="_blank">Go Concurrency Patterns</a></h3>
-                    <p>A presentation by Rob Pike on concurrency patterns in Go.</p>
-                </div>
-            </div></details>
-        <details>
             <summary style="background-color: #007396; color: white">
-                <span><span class="lang-icon">☕</span>Java <span class="lang-count" style="color:inherit">8</span></span>
+                <span><span class="lang-icon">☕</span>Java <span class="lang-count" style="color:inherit">7</span></span>
             </summary>
             <div class="content-wrapper">
         
@@ -318,15 +166,6 @@
                     </div>
                     <h3><a href="https://www.gutenberg.org/ebooks/50343" target="_blank">Java: A Beginner's Guide</a></h3>
                     <p>An introductory book for beginners to learn Java programming.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #007396">
-                    <div class="header-row">
-                        <span>Book</span>
-                        <span>2025-12-21</span>
-                    </div>
-                    <h3><a href="https://jbloch.github.io/effective-java/" target="_blank">Effective Java</a></h3>
-                    <p>A guide on writing efficient and effective Java code.</p>
                 </div>
             
                 <div class="card" style="border-left-color: #007396">
@@ -375,50 +214,8 @@
                 </div>
             </div></details>
         <details>
-            <summary style="background-color: #339933; color: white">
-                <span><span class="lang-icon">🟢</span>Node.js <span class="lang-count" style="color:inherit">4</span></span>
-            </summary>
-            <div class="content-wrapper">
-        
-                <div class="card" style="border-left-color: #339933">
-                    <div class="header-row">
-                        <span>PDF</span>
-                        <span>2025-12-22</span>
-                    </div>
-                    <h3><a href="https://drive.google.com/file/d/0B7r8GzYnK5b9cEJ0ZkR2aXNtTjA/view" target="_blank">NodeJS Notes For Professionals</a></h3>
-                    <p>The latest edition of NodeJS Notes For Professionals is the 5th Edition published in March 2025.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #339933">
-                    <div class="header-row">
-                        <span>PDF</span>
-                        <span>2025-12-22</span>
-                    </div>
-                    <h3><a href="http://www.coreservlets.com/nodejs-tutorial.html" target="_blank">Learning Node.js – PDF Books</a></h3>
-                    <p>A collection of resources for learning Node.js in PDF format.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #339933">
-                    <div class="header-row">
-                        <span>PDF</span>
-                        <span>2025-12-22</span>
-                    </div>
-                    <h3><a href="http://book.mixu.net/node.pdf" target="_blank">Mixu’s Node book</a></h3>
-                    <p>API documentation for Node.js in PDF format.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #339933">
-                    <div class="header-row">
-                        <span>PDF</span>
-                        <span>2025-12-22</span>
-                    </div>
-                    <h3><a href="https://github.com/azat-co/nodejs-the-right-way/raw/master/book.pdf" target="_blank">Practical Node.js</a></h3>
-                    <p>A guide to getting started with Node.js, npm, Web Apps With Express, Filesystem I/O, Exporting and Consuming Modules, Exporting and Importing Module in node.js, How modules are loaded, Cluster Module, Readline, package.json, Event Emitters, Autoreload on changes, Environment, http and more.</p>
-                </div>
-            </div></details>
-        <details>
             <summary style="background-color: #3776AB; color: white">
-                <span><span class="lang-icon">🐍</span>Python <span class="lang-count" style="color:inherit">17</span></span>
+                <span><span class="lang-icon">🐍</span>Python <span class="lang-count" style="color:inherit">11</span></span>
             </summary>
             <div class="content-wrapper">
         
@@ -469,15 +266,6 @@
             
                 <div class="card" style="border-left-color: #3776AB">
                     <div class="header-row">
-                        <span>Challenges</span>
-                        <span>2025-12-21</span>
-                    </div>
-                    <h3><a href="https://www.hackerrank.com/domains/tutorials/10-days-of-python" target="_blank">HackerRank Python Challenges</a></h3>
-                    <p>A series of challenges and tutorials on Python provided by HackerRank, aimed at improving coding skills.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #3776AB">
-                    <div class="header-row">
                         <span>Online Course</span>
                         <span>2025-12-21</span>
                     </div>
@@ -517,44 +305,8 @@
                         <span>Book</span>
                         <span>2025-12-21</span>
                     </div>
-                    <h3><a href="https://python.swaroopch.com/python-a-byte-of-python.pdf" target="_blank">A Byte of Python</a></h3>
-                    <p>A beginner-friendly guide to programming with Python.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #3776AB">
-                    <div class="header-row">
-                        <span>Book</span>
-                        <span>2025-12-21</span>
-                    </div>
                     <h3><a href="http://www.diveintopython3.net/" target="_blank">Learning Python</a></h3>
                     <p>A detailed guide to learning Python with practical examples and exercises.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #3776AB">
-                    <div class="header-row">
-                        <span>Book</span>
-                        <span>2025-12-21</span>
-                    </div>
-                    <h3><a href="http://mcsp.wartburg.edu/zelle/python3/textbook.pdf" target="_blank">Programming in Python 3: A Complete Introduction to Computer Science</a></h3>
-                    <p>An introduction to computer science using Python, suitable for beginners.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #3776AB">
-                    <div class="header-row">
-                        <span>Book</span>
-                        <span>2025-12-21</span>
-                    </div>
-                    <h3><a href="https://docs.python-guide.org/scenarios/pdf/" target="_blank">Python Essential Reference</a></h3>
-                    <p>A comprehensive reference for the Python language and its libraries.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #3776AB">
-                    <div class="header-row">
-                        <span>Book</span>
-                        <span>2025-12-21</span>
-                    </div>
-                    <h3><a href="https://fluents-python.com/" target="_blank">Fluent Python</a></h3>
-                    <p>An in-depth guide to writing idiomatic Python code, focusing on best practices and advanced features.</p>
                 </div>
             
                 <div class="card" style="border-left-color: #3776AB">
@@ -565,19 +317,10 @@
                     <h3><a href="https://diveintopython3.net/" target="_blank">Dive into Python</a></h3>
                     <p>A comprehensive guide to using Python for various tasks, from web development to system administration.</p>
                 </div>
-            
-                <div class="card" style="border-left-color: #3776AB">
-                    <div class="header-row">
-                        <span>Book</span>
-                        <span>2025-12-21</span>
-                    </div>
-                    <h3><a href="http://www-cs-faculty.stanford.edu/~knuth/gfology/morris.pdf" target="_blank">The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1</a></h3>
-                    <p>A comprehensive book on combinatorial algorithms by Donald E. Knuth.</p>
-                </div>
             </div></details>
         <details>
             <summary style="background-color: #61DAFB; color: #333">
-                <span><span class="lang-icon">⚛️</span>React.js <span class="lang-count" style="color:inherit">9</span></span>
+                <span><span class="lang-icon">⚛️</span>React.js <span class="lang-count" style="color:inherit">8</span></span>
             </summary>
             <div class="content-wrapper">
         
@@ -588,15 +331,6 @@
                     </div>
                     <h3><a href="https://roadtoreact.com/" target="_blank">The Road to React</a></h3>
                     <p>A comprehensive guide to learning React, covering everything from the basics to advanced topics.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #61DAFB">
-                    <div class="header-row">
-                        <span>Handbook</span>
-                        <span>2025-12-21</span>
-                    </div>
-                    <h3><a href="https://flaviocopes.com/react-handbook/" target="_blank">React Beginner's Handbook</a></h3>
-                    <p>An in-depth handbook for beginners, providing a solid foundation in React with practical examples.</p>
                 </div>
             
                 <div class="card" style="border-left-color: #61DAFB">
@@ -664,7 +398,7 @@
             </div></details>
         <details>
             <summary style="background-color: #DEA584; color: white">
-                <span><span class="lang-icon">🦀</span>Rust <span class="lang-count" style="color:inherit">4</span></span>
+                <span><span class="lang-icon">🦀</span>Rust <span class="lang-count" style="color:inherit">3</span></span>
             </summary>
             <div class="content-wrapper">
         
@@ -694,31 +428,13 @@
                     <h3><a href="https://doc.rust-lang.org/nomicon/" target="_blank">The Rustonomicon</a></h3>
                     <p>Advanced topics in Rust, including its memory safety story, systems programming, and unsafe code.</p>
                 </div>
-            
-                <div class="card" style="border-left-color: #DEA584">
-                    <div class="header-row">
-                        <span>Tutorial</span>
-                        <span>2025-12-22</span>
-                    </div>
-                    <h3><a href="https://github.com/rust-unofficial/too-many-linked-lists" target="_blank">Learning Rust with Entirely Too Many Linked Lists</a></h3>
-                    <p>A series of exercises that teach Rust programming by implementing various linked list data structures.</p>
-                </div>
             </div></details>
         <details>
             <summary style="background-color: #6DB33F; color: white">
-                <span><span class="lang-icon">🍃</span>Spring Boot <span class="lang-count" style="color:inherit">4</span></span>
+                <span><span class="lang-icon">🍃</span>Spring Boot <span class="lang-count" style="color:inherit">3</span></span>
             </summary>
             <div class="content-wrapper">
         
-                <div class="card" style="border-left-color: #6DB33F">
-                    <div class="header-row">
-                        <span>Book</span>
-                        <span>2025-12-22</span>
-                    </div>
-                    <h3><a href="https://www.manning.com/books/spring-boot-up-and-running" target="_blank">Spring Boot : Up & Running</a></h3>
-                    <p></p>
-                </div>
-            
                 <div class="card" style="border-left-color: #6DB33F">
                     <div class="header-row">
                         <span>Documentation</span>
@@ -748,19 +464,10 @@
             </div></details>
         <details>
             <summary style="background-color: #06B6D4; color: white">
-                <span><span class="lang-icon">🌊</span>Tailwind CSS <span class="lang-count" style="color:inherit">6</span></span>
+                <span><span class="lang-icon">🌊</span>Tailwind CSS <span class="lang-count" style="color:inherit">2</span></span>
             </summary>
             <div class="content-wrapper">
         
-                <div class="card" style="border-left-color: #06B6D4">
-                    <div class="header-row">
-                        <span>Guide</span>
-                        <span>2025-12-23</span>
-                    </div>
-                    <h3><a href="https://tailwindcss.com/docs/guides" target="_blank">Tailwind CSS : From Zero to Production</a></h3>
-                    <p>A comprehensive guide to building web applications with Tailwind CSS from scratch.</p>
-                </div>
-            
                 <div class="card" style="border-left-color: #06B6D4">
                     <div class="header-row">
                         <span>UI Components</span>
@@ -768,33 +475,6 @@
                     </div>
                     <h3><a href="https://tailwindui.com/" target="_blank">Tailwind Plus</a></h3>
                     <p>A collection of beautiful, fully responsive UI components built with Tailwind CSS.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #06B6D4">
-                    <div class="header-row">
-                        <span>Documentation</span>
-                        <span>2025-12-23</span>
-                    </div>
-                    <h3><a href="https://example.com/tailwind-css-v4.pdf" target="_blank">Tailwind CSS v4</a></h3>
-                    <p>The official documentation for Tailwind CSS version 4.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #06B6D4">
-                    <div class="header-row">
-                        <span>Book</span>
-                        <span>2025-12-23</span>
-                    </div>
-                    <h3><a href="https://example.com/free-tailwind-css-book.pdf" target="_blank">Free PDF Book on Tailwind CSS</a></h3>
-                    <p>A free PDF book exploring the features and usage of Tailwind CSS.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #06B6D4">
-                    <div class="header-row">
-                        <span>Examples</span>
-                        <span>2025-12-23</span>
-                    </div>
-                    <h3><a href="https://tailwindcss.com/docs/examples" target="_blank">Tailwind CSS Projects</a></h3>
-                    <p>Explore real-world projects and practical examples using Tailwind CSS.</p>
                 </div>
             
                 <div class="card" style="border-left-color: #06B6D4">
@@ -808,7 +488,7 @@
             </div></details>
         <details>
             <summary style="background-color: #3178C6; color: white">
-                <span><span class="lang-icon">📘</span>TypeScript <span class="lang-count" style="color:inherit">3</span></span>
+                <span><span class="lang-icon">📘</span>TypeScript <span class="lang-count" style="color:inherit">2</span></span>
             </summary>
             <div class="content-wrapper">
         
@@ -823,61 +503,10 @@
             
                 <div class="card" style="border-left-color: #3178C6">
                     <div class="header-row">
-                        <span>Book</span>
-                        <span>2025-12-21</span>
-                    </div>
-                    <h3><a href="https://github.com/danwells/ultimate-typescript-handbook" target="_blank">Ultimate TypeScript Handbook by Dan Wellman</a></h3>
-                    <p>An in-depth handbook for mastering TypeScript, written by Dan Wellman.</p>
-                </div>
-            
-                <div class="card" style="border-left-color: #3178C6">
-                    <div class="header-row">
                         <span>Documentation Tool</span>
                         <span>2025-12-21</span>
                     </div>
                     <h3><a href="https://typedoc.org/" target="_blank">TypeDoc</a></h3>
                     <p>A documentation generator for TypeScript projects, automating the process of generating code documentation.</p>
-                </div>
-            </div></details>
-        <details>
-            <summary style="background-color: #4FC08D; color: #333">
-                <span><span class="lang-icon">🟩</span>Vue.js <span class="lang-count" style="color:inherit">4</span></span>
-            </summary>
-            <div class="content-wrapper">
-        
-                <div class="card" style="border-left-color: #4FC08D">
-                    <div class="header-row">
-                        <span></span>
-                        <span>2025-12-21</span>
-                    </div>
-                    <h3><a href="https://www.welib.org/learn-the-core-concepts-of-vue-js/" target="_blank">Learn the core concepts of Vue.js</a></h3>
-                    <p></p>
-                </div>
-            
-                <div class="card" style="border-left-color: #4FC08D">
-                    <div class="header-row">
-                        <span></span>
-                        <span>2025-12-21</span>
-                    </div>
-                    <h3><a href="https://www.welib.org/front-end-development-projects-with-vue-js/" target="_blank">Front-End Development Projects with Vue.js</a></h3>
-                    <p></p>
-                </div>
-            
-                <div class="card" style="border-left-color: #4FC08D">
-                    <div class="header-row">
-                        <span></span>
-                        <span>2025-12-21</span>
-                    </div>
-                    <h3><a href="https://www.welib.org/learn-how-to-combine-bootstrap-with-vue-js/" target="_blank">Learn how to combine Bootstrap with Vue.js</a></h3>
-                    <p></p>
-                </div>
-            
-                <div class="card" style="border-left-color: #4FC08D">
-                    <div class="header-row">
-                        <span></span>
-                        <span>2025-12-21</span>
-                    </div>
-                    <h3><a href="https://www.welib.org/fluent-react_final_true/" target="_blank">Fluent React_Final_True</a></h3>
-                    <p></p>
                 </div>
             </div></details></body></html>
