@@ -40,14 +40,6 @@
         "date_found": "2025-12-21"
     },
     {
-        "name": "HackerRank Python Challenges",
-        "url": "https://www.hackerrank.com/domains/tutorials/10-days-of-python",
-        "description": "A series of challenges and tutorials on Python provided by HackerRank, aimed at improving coding skills.",
-        "type": "Challenges",
-        "language": "Python",
-        "date_found": "2025-12-21"
-    },
-    {
         "name": "Codecademy Python Track",
         "url": "https://www.codecademy.com/learn/learn-python-3",
         "description": "An interactive course on Codecademy that teaches the fundamentals of Python programming.",
@@ -75,14 +67,6 @@
         "name": "Java: A Beginner's Guide",
         "url": "https://www.gutenberg.org/ebooks/50343",
         "description": "An introductory book for beginners to learn Java programming.",
-        "type": "Book",
-        "language": "Java",
-        "date_found": "2025-12-21"
-    },
-    {
-        "name": "Effective Java",
-        "url": "https://jbloch.github.io/effective-java/",
-        "description": "A guide on writing efficient and effective Java code.",
         "type": "Book",
         "language": "Java",
         "date_found": "2025-12-21"
@@ -144,41 +128,9 @@
         "date_found": "2025-12-21"
     },
     {
-        "name": "A Byte of Python",
-        "url": "https://python.swaroopch.com/python-a-byte-of-python.pdf",
-        "description": "A beginner-friendly guide to programming with Python.",
-        "type": "Book",
-        "language": "Python",
-        "date_found": "2025-12-21"
-    },
-    {
         "name": "Learning Python",
         "url": "http://www.diveintopython3.net/",
         "description": "A detailed guide to learning Python with practical examples and exercises.",
-        "type": "Book",
-        "language": "Python",
-        "date_found": "2025-12-21"
-    },
-    {
-        "name": "Programming in Python 3: A Complete Introduction to Computer Science",
-        "url": "http://mcsp.wartburg.edu/zelle/python3/textbook.pdf",
-        "description": "An introduction to computer science using Python, suitable for beginners.",
-        "type": "Book",
-        "language": "Python",
-        "date_found": "2025-12-21"
-    },
-    {
-        "name": "Python Essential Reference",
-        "url": "https://docs.python-guide.org/scenarios/pdf/",
-        "description": "A comprehensive reference for the Python language and its libraries.",
-        "type": "Book",
-        "language": "Python",
-        "date_found": "2025-12-21"
-    },
-    {
-        "name": "Fluent Python",
-        "url": "https://fluents-python.com/",
-        "description": "An in-depth guide to writing idiomatic Python code, focusing on best practices and advanced features.",
         "type": "Book",
         "language": "Python",
         "date_found": "2025-12-21"
@@ -192,25 +144,9 @@
         "date_found": "2025-12-21"
     },
     {
-        "name": "The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1",
-        "url": "http://www-cs-faculty.stanford.edu/~knuth/gfology/morris.pdf",
-        "description": "A comprehensive book on combinatorial algorithms by Donald E. Knuth.",
-        "type": "Book",
-        "language": "Python",
-        "date_found": "2025-12-21"
-    },
-    {
         "name": "Programming TypeScript (2019)",
         "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
         "description": "A comprehensive guide to learning TypeScript, covering various aspects of the language.",
-        "type": "Book",
-        "language": "TypeScript",
-        "date_found": "2025-12-21"
-    },
-    {
-        "name": "Ultimate TypeScript Handbook by Dan Wellman",
-        "url": "https://github.com/danwells/ultimate-typescript-handbook",
-        "description": "An in-depth handbook for mastering TypeScript, written by Dan Wellman.",
         "type": "Book",
         "language": "TypeScript",
         "date_found": "2025-12-21"
@@ -256,42 +192,10 @@
         "date_found": "2025-12-21"
     },
     {
-        "name": "The Go Programming Language",
-        "url": "https://golang.org/doc/effective_go.pdf",
-        "description": "A comprehensive guide to the Go programming language by Alan Donovan and Brian Kernighan.",
-        "type": "Book",
-        "language": "Go",
-        "date_found": "2025-12-21"
-    },
-    {
-        "name": "Programming in Go: Creating Applications with Golang",
-        "url": "https://www.golang-book.com/books/intro",
-        "description": "An introductory book to Go, covering the basics and advanced topics.",
-        "type": "Book",
-        "language": "Go",
-        "date_found": "2025-12-21"
-    },
-    {
-        "name": "Go Concurrency Patterns",
-        "url": "https://talks.golang.org/2013/concurrency.slide#1",
-        "description": "A presentation by Rob Pike on concurrency patterns in Go.",
-        "type": "Presentation",
-        "language": "Go",
-        "date_found": "2025-12-21"
-    },
-    {
         "name": "The Road to React",
         "url": "https://roadtoreact.com/",
         "description": "A comprehensive guide to learning React, covering everything from the basics to advanced topics.",
         "type": "Guide",
-        "language": "React.js",
-        "date_found": "2025-12-21"
-    },
-    {
-        "name": "React Beginner's Handbook",
-        "url": "https://flaviocopes.com/react-handbook/",
-        "description": "An in-depth handbook for beginners, providing a solid foundation in React with practical examples.",
-        "type": "Handbook",
         "language": "React.js",
         "date_found": "2025-12-21"
     },
@@ -352,38 +256,6 @@
         "date_found": "2025-12-21"
     },
     {
-        "name": "Learn the core concepts of Vue.js",
-        "url": "https://www.welib.org/learn-the-core-concepts-of-vue-js/",
-        "description": "",
-        "type": "",
-        "language": "Vue.js",
-        "date_found": "2025-12-21"
-    },
-    {
-        "name": "Front-End Development Projects with Vue.js",
-        "url": "https://www.welib.org/front-end-development-projects-with-vue-js/",
-        "description": "",
-        "type": "",
-        "language": "Vue.js",
-        "date_found": "2025-12-21"
-    },
-    {
-        "name": "Learn how to combine Bootstrap with Vue.js",
-        "url": "https://www.welib.org/learn-how-to-combine-bootstrap-with-vue-js/",
-        "description": "",
-        "type": "",
-        "language": "Vue.js",
-        "date_found": "2025-12-21"
-    },
-    {
-        "name": "Fluent React_Final_True",
-        "url": "https://www.welib.org/fluent-react_final_true/",
-        "description": "",
-        "type": "",
-        "language": "Vue.js",
-        "date_found": "2025-12-21"
-    },
-    {
         "name": "The Rust Programming Language (Official Book)",
         "url": "https://doc.rust-lang.org/book/",
         "description": "The official book for learning the Rust programming language.",
@@ -405,86 +277,6 @@
         "description": "Advanced topics in Rust, including its memory safety story, systems programming, and unsafe code.",
         "type": "Documentation",
         "language": "Rust",
-        "date_found": "2025-12-22"
-    },
-    {
-        "name": "Learning Rust with Entirely Too Many Linked Lists",
-        "url": "https://github.com/rust-unofficial/too-many-linked-lists",
-        "description": "A series of exercises that teach Rust programming by implementing various linked list data structures.",
-        "type": "Tutorial",
-        "language": "Rust",
-        "date_found": "2025-12-22"
-    },
-    {
-        "name": "C# Programming in easy steps",
-        "url": "http://www.welib.org/CSharpProgrammingInEasySteps",
-        "description": "The latest edition of 'C# Programming in easy steps' is the 3rd edition, updated for Visual Studio 2022.",
-        "type": "Book",
-        "language": "C#",
-        "date_found": "2025-12-22"
-    },
-    {
-        "name": "Professional C# and .NET: 2021 Edition",
-        "url": "http://www.welib.org/ProfessionalCSharpAndNet2021Edition",
-        "description": "",
-        "type": "Book",
-        "language": "C#",
-        "date_found": "2025-12-22"
-    },
-    {
-        "name": "C# Essentials",
-        "url": "http://www.welib.org/CSharpEssentials",
-        "description": "",
-        "type": "Book",
-        "language": "C#",
-        "date_found": "2025-12-22"
-    },
-    {
-        "name": "NodeJS Notes For Professionals",
-        "url": "https://drive.google.com/file/d/0B7r8GzYnK5b9cEJ0ZkR2aXNtTjA/view",
-        "description": "The latest edition of NodeJS Notes For Professionals is the 5th Edition published in March 2025.",
-        "type": "PDF",
-        "language": "Node.js",
-        "date_found": "2025-12-22"
-    },
-    {
-        "name": "Learning Node.js \u2013 PDF Books",
-        "url": "http://www.coreservlets.com/nodejs-tutorial.html",
-        "description": "A collection of resources for learning Node.js in PDF format.",
-        "type": "PDF",
-        "language": "Node.js",
-        "date_found": "2025-12-22"
-    },
-    {
-        "name": "Mixu\u2019s Node book",
-        "url": "http://book.mixu.net/node.pdf",
-        "description": "API documentation for Node.js in PDF format.",
-        "type": "PDF",
-        "language": "Node.js",
-        "date_found": "2025-12-22"
-    },
-    {
-        "name": "Practical Node.js",
-        "url": "https://github.com/azat-co/nodejs-the-right-way/raw/master/book.pdf",
-        "description": "A guide to getting started with Node.js, npm, Web Apps With Express, Filesystem I/O, Exporting and Consuming Modules, Exporting and Importing Module in node.js, How modules are loaded, Cluster Module, Readline, package.json, Event Emitters, Autoreload on changes, Environment, http and more.",
-        "type": "PDF",
-        "language": "Node.js",
-        "date_found": "2025-12-22"
-    },
-    {
-        "name": "A practical hacker's guide to the C programming language",
-        "url": "https://github.com/practicalhacker/hackers-guide-to-c",
-        "description": "A practical hacker's guide to the C programming language.",
-        "type": "GitHub Repository",
-        "language": "C Programming",
-        "date_found": "2025-12-22"
-    },
-    {
-        "name": "C Programming, System programming with C, Fundamentals, Memory Management, Embedded Systems",
-        "url": "https://github.com/Pragmatics/C-Programming",
-        "description": "A comprehensive guide to C programming covering fundamentals, memory management, and embedded systems.",
-        "type": "GitHub Repository",
-        "language": "C Programming",
         "date_found": "2025-12-22"
     },
     {
@@ -536,14 +328,6 @@
         "date_found": "2025-12-22"
     },
     {
-        "name": "Spring Boot : Up & Running",
-        "url": "https://www.manning.com/books/spring-boot-up-and-running",
-        "description": "",
-        "type": "Book",
-        "language": "Spring Boot",
-        "date_found": "2025-12-22"
-    },
-    {
         "name": "Official Spring Boot Documentation",
         "url": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/",
         "description": "",
@@ -568,14 +352,6 @@
         "date_found": "2025-12-22"
     },
     {
-        "name": "Tailwind CSS : From Zero to Production",
-        "url": "https://tailwindcss.com/docs/guides",
-        "description": "A comprehensive guide to building web applications with Tailwind CSS from scratch.",
-        "type": "Guide",
-        "language": "Tailwind CSS",
-        "date_found": "2025-12-23"
-    },
-    {
         "name": "Tailwind Plus",
         "url": "https://tailwindui.com/",
         "description": "A collection of beautiful, fully responsive UI components built with Tailwind CSS.",
@@ -584,66 +360,10 @@
         "date_found": "2025-12-23"
     },
     {
-        "name": "Tailwind CSS v4",
-        "url": "https://example.com/tailwind-css-v4.pdf",
-        "description": "The official documentation for Tailwind CSS version 4.",
-        "type": "Documentation",
-        "language": "Tailwind CSS",
-        "date_found": "2025-12-23"
-    },
-    {
-        "name": "Free PDF Book on Tailwind CSS",
-        "url": "https://example.com/free-tailwind-css-book.pdf",
-        "description": "A free PDF book exploring the features and usage of Tailwind CSS.",
-        "type": "Book",
-        "language": "Tailwind CSS",
-        "date_found": "2025-12-23"
-    },
-    {
-        "name": "Tailwind CSS Projects",
-        "url": "https://tailwindcss.com/docs/examples",
-        "description": "Explore real-world projects and practical examples using Tailwind CSS.",
-        "type": "Examples",
-        "language": "Tailwind CSS",
-        "date_found": "2025-12-23"
-    },
-    {
         "name": "EbookFoundation/free-programming-books",
         "url": "https://github.com/EbookFoundation/free-programming-books",
         "description": "A collection of free programming books.",
         "type": "Repository",
-        "language": "C++",
-        "date_found": "2025-12-23"
-    },
-    {
-        "name": "Learn C++ by Example",
-        "url": "https://example.com/learn-cpp-by-example.pdf",
-        "description": "A book to learn C++ by example.",
-        "type": "PDF",
-        "language": "C++",
-        "date_found": "2025-12-23"
-    },
-    {
-        "name": "C++ A Beginners Guide",
-        "url": "https://example.com/c-beginners-guide.pdf",
-        "description": "A guide for beginners to learn C++.",
-        "type": "PDF",
-        "language": "C++",
-        "date_found": "2025-12-23"
-    },
-    {
-        "name": "C++ Templates: The Complete Guide",
-        "url": "https://example.com/cpp-templates-complete-guide.pdf",
-        "description": "A comprehensive guide to C++ templates.",
-        "type": "PDF",
-        "language": "C++",
-        "date_found": "2025-12-23"
-    },
-    {
-        "name": "Effective Modern C++",
-        "url": "https://example.com/effective-modern-cpp.pdf",
-        "description": "Best practices for modern C++ programming.",
-        "type": "PDF",
         "language": "C++",
         "date_found": "2025-12-23"
     }
