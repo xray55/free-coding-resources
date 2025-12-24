@@ -376,9 +376,9 @@
         "date_found": "2025-12-23"
     },
     {
-        "name": "Vue.js Official Documentation",
+        "name": "Official Vue.js Documentation",
         "url": "https://vuejs.org/v2/guide/",
-        "description": "The official documentation for Vue.js 2, which is no longer supported.",
+        "description": "The official documentation for Vue.js, covering the core concepts and features of the framework.",
         "type": "Documentation",
         "language": "Vue.js",
         "date_found": "2025-12-23"
@@ -477,6 +477,62 @@
         "description": "An in-depth exploration of TypeScript, offering detailed explanations and examples to master the language.",
         "type": "Book/Guide",
         "language": "TypeScript",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Vue Router Documentation",
+        "url": "https://router.vuejs.org/",
+        "description": "The official documentation for Vue Router, a popular routing library for Vue.js applications.",
+        "type": "Documentation",
+        "language": "Vue.js",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Vuex Documentation",
+        "url": "https://vuex.vuejs.org/",
+        "description": "The official documentation for Vuex, the state management library for Vue.js applications.",
+        "type": "Documentation",
+        "language": "Vue.js",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Vue CLI Documentation",
+        "url": "https://cli.vuejs.org/",
+        "description": "The official documentation for Vue CLI, a command-line interface for scaffolding and managing Vue.js projects.",
+        "type": "Documentation",
+        "language": "Vue.js",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Vue Test Utils Documentation",
+        "url": "https://test-utils.vuejs.org/",
+        "description": "The official documentation for Vue Test Utils, a library for unit testing Vue.js components.",
+        "type": "Documentation",
+        "language": "Vue.js",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Official Tailwind CSS Documentation",
+        "url": "https://tailwindcss.com/docs",
+        "description": "The official documentation for Tailwind CSS, providing comprehensive guides and examples.",
+        "type": "Documentation",
+        "language": "Tailwind CSS",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Tailwind CSS: The Utility-First Approach to Building Rapidly Shippable Frontend Interfaces",
+        "url": "https://www.google.com/search?q=Tailwind+CSS%3A+The+Utility-First+Approach+to+Building+Rapidly+Shippable+Frontend+Interfaces",
+        "description": "A PDF book about the utility-first approach to building frontend interfaces with Tailwind CSS.",
+        "type": "PDF",
+        "language": "Tailwind CSS",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Tailwind CSS by Example",
+        "url": "https://www.google.com/search?q=Tailwind+CSS+by+Example",
+        "description": "A PDF book that provides examples of how to use Tailwind CSS in various projects.",
+        "type": "PDF",
+        "language": "Tailwind CSS",
         "date_found": "2025-12-23"
     }
 ]
