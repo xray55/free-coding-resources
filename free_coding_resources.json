@@ -368,10 +368,10 @@
         "date_found": "2025-12-23"
     },
     {
-        "name": "Microsoft Learn \u2013 C# Learning Path",
+        "name": "Official Microsoft C# Documentation",
         "url": "https://docs.microsoft.com/en-us/dotnet/csharp/",
-        "description": "Official Microsoft resource for learning C#.",
-        "type": "Learning Path",
+        "description": "The official documentation for the C# programming language provided by Microsoft.",
+        "type": "Documentation",
         "language": "C#",
         "date_found": "2025-12-23"
     },
@@ -533,6 +533,38 @@
         "description": "A PDF book that provides examples of how to use Tailwind CSS in various projects.",
         "type": "PDF",
         "language": "Tailwind CSS",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "C# Language Specification",
+        "url": "https://github.com/dotnet/csharplang",
+        "description": "The specification that defines the C# programming language, maintained on GitHub.",
+        "type": "Specification",
+        "language": "C#",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Roslyn (C# Compiler)",
+        "url": "https://github.com/dotnet/roslyn",
+        "description": "The open-source .NET compiler platform that provides a C# compiler and other tools for analyzing, transforming, and emitting code.",
+        "type": "Compiler",
+        "language": "C#",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "C# Guide on GitHub",
+        "url": "https://github.com/dotnet/docs/tree/main/docs/csharp",
+        "description": "The official guide for the C# programming language, hosted on GitHub.",
+        "type": "Guide",
+        "language": "C#",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": ".NET Documentation",
+        "url": "https://docs.microsoft.com/en-us/dotnet/",
+        "description": "The comprehensive documentation for the .NET framework, including information about C# and other languages in the ecosystem.",
+        "type": "Documentation",
+        "language": "C#",
         "date_found": "2025-12-23"
     }
 ]
