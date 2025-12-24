@@ -17,17 +17,8 @@
             summary:hover { filter: brightness(110%); }
             summary::-webkit-details-marker { display: none; }
             summary::after { 
-                content: '+'; 
-                font-size: 1.5em; 
-                font-weight: 400; 
-                opacity: 0.8; 
-                display: flex; 
-                align-items: center; 
-                justify-content: center; 
-                width: 30px; 
-                height: 30px; 
-                line-height: 1; 
-                transform: translateY(-2px); /* <--- MOVED UP 2 PIXELS HERE */
+                content: '+'; font-size: 1.5em; font-weight: 400; opacity: 0.8; display: flex; align-items: center; justify-content: center; width: 30px; height: 30px; line-height: 1; 
+                transform: translateY(-2px); 
             }
             details[open] summary::after { content: '-'; transform: translateY(-2px); }
             .lang-icon { margin-right: 10px; }
