@@ -1,0 +1,173 @@
+[
+    {
+        "title": "Frontend React Dev",
+        "steps": [
+            {
+                "step": "1. Basics",
+                "description": "Begin your journey by understanding the core concepts of React. Start with The Road to React (https://roadtoreact.com/) for a comprehensive guide. Then, dive into React Documentation (https://reactjs.org/docs/getting-started.html) and set up your development environment using Create React App (https://create-react-app.dev/docs/getting-started/).",
+                "resources": [
+                    {
+                        "name": "The Road to React",
+                        "url": "https://roadtoreact.com/"
+                    },
+                    {
+                        "name": "React Documentation",
+                        "url": "https://reactjs.org/docs/getting-started.html"
+                    },
+                    {
+                        "name": "Create React App",
+                        "url": "https://create-react-app.dev/docs/getting-started/"
+                    }
+                ]
+            },
+            {
+                "step": "2. Routing and State Management",
+                "description": "Once you have a solid understanding of the basics, it's time to learn how to handle routing and manage application state. Study React Router (https://reactrouter.com/en/main/start/tutorial) for efficient navigation in your app. Then, explore Redux (https://redux.js.org/introduction/getting-started) to effectively manage the state across different components.",
+                "resources": [
+                    {
+                        "name": "React Router",
+                        "url": "https://reactrouter.com/en/main/start/tutorial"
+                    },
+                    {
+                        "name": "Redux",
+                        "url": "https://redux.js.org/introduction/getting-started"
+                    }
+                ]
+            },
+            {
+                "step": "3. Advanced React Features",
+                "description": "Expand your knowledge by exploring advanced React features, such as Context API (https://reactjs.org/docs/context.html) and Hooks. The Hooks API Reference (https://reactjs.org/docs/hooks-reference.html) will provide you with a comprehensive guide to using hooks in your React applications.",
+                "resources": [
+                    {
+                        "name": "Context API",
+                        "url": "https://reactjs.org/docs/context.html"
+                    },
+                    {
+                        "name": "Hooks API Reference",
+                        "url": "https://reactjs.org/docs/hooks-reference.html"
+                    }
+                ]
+            },
+            {
+                "step": "4. Mobile Development with React Native",
+                "description": "If you want to take your React skills to mobile platforms, dive into React Native Documentation (https://reactnative.dev/docs/environment-setup) and learn how to build cross-platform mobile applications using React.",
+                "resources": [
+                    {
+                        "name": "React Native Documentation",
+                        "url": "https://reactnative.dev/docs/environment-setup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Systems Engineer (Rust/C++)",
+        "steps": [
+            {
+                "step": "1. Basics",
+                "description": "Begin your journey with the fundamentals of Rust and C++ programming.",
+                "resources": [
+                    {
+                        "name": "The Rust Programming Language (Official Book)",
+                        "url": "https://doc.rust-lang.org/book/"
+                    },
+                    {
+                        "name": "C++ Programming Language",
+                        "url": "https://web.archive.org/web/20230908004456/http://www.stroustrup.com/C++.html"
+                    }
+                ]
+            },
+            {
+                "step": "2. Intermediate",
+                "description": "Deepen your understanding with more advanced concepts and examples.",
+                "resources": [
+                    {
+                        "name": "Rust by Example",
+                        "url": "https://doc.rust-lang.org/rust-by-example/"
+                    },
+                    {
+                        "name": "The C++ Standard Library",
+                        "url": "https://en.cppreference.com/w/"
+                    }
+                ]
+            },
+            {
+                "step": "3. Advanced",
+                "description": "Explore the more complex aspects of Rust and C++ programming.",
+                "resources": [
+                    {
+                        "name": "The Rustonomicon",
+                        "url": "https://doc.rust-lang.org/nomicon/"
+                    }
+                ]
+            },
+            {
+                "step": "4. Additional Resources",
+                "description": "Access a wider collection of resources to further enhance your knowledge.",
+                "resources": [
+                    {
+                        "name": "EbookFoundation/free-programming-books",
+                        "url": "https://github.com/EbookFoundation/free-programming-books"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Java Enterprise",
+        "steps": [
+            {
+                "step": "1. Basics",
+                "description": "Begin your journey with the fundamentals of Java programming.",
+                "resources": [
+                    {
+                        "name": "Introduction to Java Programming",
+                        "url": "https://books.trinket.io/pd/java/intro.html"
+                    },
+                    {
+                        "name": "Java: A Beginner's Guide",
+                        "url": "https://www.gutenberg.org/ebooks/50343"
+                    }
+                ]
+            },
+            {
+                "step": "2. Core Concepts",
+                "description": "Build upon the basics with essential Java concepts and features.",
+                "resources": [
+                    {
+                        "name": "The Java Programming Language",
+                        "url": "https://docs.oracle.com/javase/tutorial/"
+                    },
+                    {
+                        "name": "Java 8 in Action",
+                        "url": "https://www.manning.com/books/java-8-in-action"
+                    }
+                ]
+            },
+            {
+                "step": "3. Advanced Topics",
+                "description": "Delve into more complex aspects of Java programming.",
+                "resources": [
+                    {
+                        "name": "Java Concurrency in Practice",
+                        "url": "https://jcip.net/"
+                    },
+                    {
+                        "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+                        "url": "http://www.gofpatterns.com/"
+                    }
+                ]
+            },
+            {
+                "step": "4. Problem Solving and Optimization",
+                "description": "Enhance your problem-solving skills and learn optimization techniques.",
+                "resources": [
+                    {
+                        "name": "Java Puzzlers: Traps, Pitfalls, and Corner Cases",
+                        "url": "https://java.sun.com/docs/books/puzzlers/"
+                    }
+                ]
+            }
+        ]
+    }
+]
