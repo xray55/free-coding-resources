@@ -362,9 +362,7 @@
     {
         "name": "EbookFoundation/free-programming-books",
         "url": "https://github.com/EbookFoundation/free-programming-books",
-        "description": "A collection of free programming books.",
-        "type": "Repository",
-        "language": "C++",
+        "language": "C Programming",
         "date_found": "2025-12-23"
     },
     {
@@ -565,6 +563,12 @@
         "description": "The comprehensive documentation for the .NET framework, including information about C# and other languages in the ecosystem.",
         "type": "Documentation",
         "language": "C#",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "rigtorp/awesome-modern-cpp",
+        "url": "https://github.com/rigtorp/awesome-modern-cpp",
+        "language": "C Programming",
         "date_found": "2025-12-23"
     }
 ]
