@@ -8,7 +8,9 @@
 
 **A fully automated digital library that grows every single day.**
 
-This repository is maintained by a specialized fleet of AI Agents running locally. Every morning, noon, and night, they scour the internet for "Hall of Fame" quality programming books, university course notes, and definitive guides—filtering out SEO spam to find the timeless gems.
+This repository is maintained by a specialized fleet of AI Agents running locally. 
+* **Current Mode:** `Catch-Up Protocol`
+* **Target:** `50 resources per language`
 
 ### 🚀 [Access the Visual Dashboard](https://xray55.github.io/free-coding-resources/)
 
@@ -19,14 +21,14 @@ This repository is maintained by a specialized fleet of AI Agents running locall
 ---
 ## 📊 Live Stats
 * **Total Resources Archived:** `56`
-* **Last Agent Run:** `2025-12-23 21:11`
-* **Next Scheduled Run:** `2025-12-24 02:00` ⏳
+* **Last Agent Run:** `2025-12-23 21:15`
+* **Next Scheduled Run:** `Every 30m (Filling Library ⚡)` ⏳
 
 ---
 ## 🤖 How It Works
-1.  **The Hunter:** A `Hunter Agent` searches for official documentation, GitHub "Awesome" lists, and free verified books. It uses archives like WeLib only as a backup.
-2.  **The Reviewer:** A `Reviewer Agent` checks edition numbers and user reviews to reject outdated content.
-3.  **The Editor:** A `Chief Editor Agent` updates this README with a summary of the latest finds.
+1.  **The Hunter:** Searches for official documentation, GitHub "Awesome" lists, and free verified books.
+2.  **The Reviewer:** Checks edition numbers and user reviews.
+3.  **The Editor:** Updates this README with a summary of the latest finds.
 4.  **Deployment:** The system rebuilds the static HTML dashboard and pushes to GitHub Pages.
 
 ---
