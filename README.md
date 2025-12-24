@@ -13,8 +13,8 @@
 > *The resources added include [EbookFoundation/free-programming-books] for C Programming and [rigtorp/awesome-modern-cpp] for modern C++ practices.*
 
 ---
-## 🗺️ New: AI Generated Roadmaps
-*The Hermes 3 Agent has designed the following curriculum paths using our library:*
+## 🗺️ New: Market-Driven Roadmaps (2025)
+*Hermes 3 analyzes the job market daily to build these curriculum paths from our library:*
 - 🎓 **Frontend React Dev**
 - 🎓 **Systems Engineer (Rust/C++)**
 - 🎓 **Java Enterprise**
@@ -23,7 +23,7 @@
 ---
 ## 📊 Live Stats
 * **Total Resources:** `72`
-* **Last Agent Run:** `2025-12-23 22:11`
+* **Last Agent Run:** `2025-12-23 22:18`
 * **Next Scheduled Run:** `Every 30m (Filling Library ⚡)` ⏳
 
 ---
