@@ -169,5 +169,109 @@
                 ]
             }
         ]
+    },
+    {
+        "title": "Python AI Dev",
+        "language": "Python",
+        "steps": [
+            {
+                "step": 1,
+                "action": "Complete freeCodeCamp Python Courses to gain a solid foundation in Python programming language and basic AI concepts.",
+                "reason": "These courses cover essential Python programming skills and introduce fundamental AI principles."
+            },
+            {
+                "step": 2,
+                "action": "Study Python.org Documentation and Real Python Tutorials to deepen understanding of Python and practice problem-solving.",
+                "reason": "The official documentation and tutorials provide comprehensive coverage of Python features and coding best practices."
+            },
+            {
+                "step": 3,
+                "action": "Master AI development with the Python Data Science Handbook and Python Crash Course, while exploring Codecademy's Python Track.",
+                "reason": "These books and courses focus on AI-specific topics like data science, machine learning, and practical applications of Python."
+            },
+            {
+                "step": 4,
+                "action": "Gain hands-on experience deploying models with Google's Python Class and study advanced concepts from Open Data Structures and Learning Python.",
+                "reason": "This step ensures proficiency in deploying AI models on edge devices and understanding advanced Python features for robust development."
+            }
+        ]
+    },
+    {
+        "title": "Vue.js Tailwind CSS Frontend Developer",
+        "language": "Tailwind CSS",
+        "steps": [
+            {
+                "step": 1,
+                "book": "Learning Tailwind CSS 4 Essential Training",
+                "reason": "To establish a strong foundation in using Tailwind CSS for styling applications quickly and consistently, following best practices and modern web design principles."
+            },
+            {
+                "step": 2,
+                "book": "Tailwind Plus",
+                "reason": "To dive deeper into advanced concepts and techniques with Tailwind CSS, exploring its utility classes, customization options, and integrating it seamlessly into Vue.js applications."
+            },
+            {
+                "step": 3,
+                "book": "Official Tailwind CSS Documentation",
+                "reason": "To have direct access to the latest updates, features, and official guidance provided by the Tailwind CSS team, ensuring a comprehensive understanding of the framework's capabilities."
+            },
+            {
+                "step": 4,
+                "book": "Vue.js and Tailwind CSS Resources",
+                "reason": "To explore additional resources specifically focused on combining Vue.js with Tailwind CSS effectively, gaining insights from experienced developers and learning best practices for building modern, efficient web applications."
+            }
+        ]
+    },
+    {
+        "title": "Go Rust Backend Software Engineer",
+        "language": "Rust",
+        "steps": [
+            {
+                "step": 1,
+                "book": "The Rust Programming Language (Official Book)",
+                "reason": "Mastering Rust's unique features like ownership and borrowing system is crucial for a Go Rust Backend Software Engineer. The official book provides in-depth coverage of these concepts, equipping the engineer with the fundamental skills needed to develop safe and efficient applications using Rust."
+            },
+            {
+                "step": 2,
+                "book": "Rust by Example",
+                "reason": "To gain practical experience and reinforce the theoretical knowledge gained from the official book, 'Rust by Example' offers a collection of hands-on examples. These examples help the engineer apply their understanding of Rust concepts to real-world scenarios, enhancing their problem-solving skills and ability to write idiomatic Rust code."
+            },
+            {
+                "step": 3,
+                "book": "The Go Programming Language (Official Book)",
+                "reason": "While Rust is the primary language for this role, familiarity with Go is also valuable. The official Go book provides a solid foundation in Go's unique features and best practices. Understanding how Go differs from Rust helps the engineer make informed decisions when choosing the right language or feature for specific requirements."
+            },
+            {
+                "step": 4,
+                "book": "Designing Data-Intensive Applications",
+                "reason": "As the role involves developing high-performance, scalable backend systems, knowledge of data-intensive application design patterns is essential. This book covers fundamental concepts such as databases, scalability techniques, and distributed systems, providing a comprehensive understanding of building reliable and efficient backends."
+            }
+        ]
+    },
+    {
+        "title": "C++ Java Android App Dev",
+        "language": "Java",
+        "steps": [
+            {
+                "step": 1,
+                "description": "Learn Java programming fundamentals using 'Introduction to Java Programming' and 'Java: A Beginner's Guide'. Apply concepts by building simple Android apps.",
+                "marketReason": "Gaining core Java skills is essential for developing cross-platform apps with Jetpack Compose (Market 1) and modern UI/UX designs (Market 5)."
+            },
+            {
+                "step": 2,
+                "description": "Understand concurrency patterns using 'Java Concurrency in Practice'. Explore multi-threading techniques relevant to cloud-native architectures (Market 3).",
+                "marketReason": "Effective concurrency is crucial for building performant, scalable cloud-native backends. Understanding these patterns helps avoid pitfalls."
+            },
+            {
+                "step": 3,
+                "description": "Study design patterns from 'Design Patterns: Elements of Reusable Object-Oriented Software'. Apply patterns to improve Android app architecture and code reuse.",
+                "marketReason": "Properly applying design patterns promotes clean, maintainable codebases. This is important for integrating AI/ML (Market 2) and privacy-first techniques (Market 4)."
+            },
+            {
+                "step": 4,
+                "description": "Solve programming puzzles from 'Java Puzzlers' to identify traps and edge cases in Java. Use 'The Java Programming Language' and 'Java 8 in Action' for comprehensive language understanding.",
+                "marketReason": "Identifying and avoiding common pitfalls ensures robust, bug-free apps. Strong Java knowledge enables leveraging advanced features like lambda expressions (Market 1) and stream API (Market 2)."
+            }
+        ]
     }
 ]
