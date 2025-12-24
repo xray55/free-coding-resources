@@ -1,276 +1,262 @@
 [
     {
-        "title": "Frontend React Dev",
+        "title": "Junior Python Developer - React Experience Needed",
+        "avg_salary": "$60k (Estimate - Unable to retrieve real-time data)",
         "steps": [
             {
                 "step": "1. Basics",
-                "description": "Begin your journey by understanding the core concepts of React. Start with The Road to React (https://roadtoreact.com/) for a comprehensive guide. Then, dive into React Documentation (https://reactjs.org/docs/getting-started.html) and set up your development environment using Create React App (https://create-react-app.dev/docs/getting-started/).",
-                "resources": [
-                    {
-                        "name": "The Road to React",
-                        "url": "https://roadtoreact.com/"
-                    },
-                    {
-                        "name": "React Documentation",
-                        "url": "https://reactjs.org/docs/getting-started.html"
-                    },
-                    {
-                        "name": "Create React App",
-                        "url": "https://create-react-app.dev/docs/getting-started/"
-                    }
-                ]
+                "description": "Understand fundamental Python syntax, data types (integers, strings, booleans, lists, dictionaries), control flow (if/else statements, loops), and basic functions. Get comfortable with the Python interpreter and writing simple scripts.",
+                "book": {
+                    "name": "A Beginner's Python Tutorial",
+                    "url": "https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial"
+                },
+                "video": "https://www.youtube.com/watch?v=YYXdUB7wF7s"
             },
             {
-                "step": "2. Routing and State Management",
-                "description": "Once you have a solid understanding of the basics, it's time to learn how to handle routing and manage application state. Study React Router (https://reactrouter.com/en/main/start/tutorial) for efficient navigation in your app. Then, explore Redux (https://redux.js.org/introduction/getting-started) to effectively manage the state across different components.",
-                "resources": [
-                    {
-                        "name": "React Router",
-                        "url": "https://reactrouter.com/en/main/start/tutorial"
-                    },
-                    {
-                        "name": "Redux",
-                        "url": "https://redux.js.org/introduction/getting-started"
-                    }
-                ]
+                "step": "2. Object-Oriented Programming (OOP)",
+                "description": "Learn about classes, objects, inheritance, polymorphism, and encapsulation.  Understand how to design and implement reusable code using OOP principles.",
+                "book": {
+                    "name": "A Whirlwind Tour of Python",
+                    "url": "https://jakevdp.github.io/WhirlwindTourOfPython/"
+                },
+                "video": "https://www.youtube.com/watch?v=Zda6tPXEtjk"
             },
             {
-                "step": "3. Advanced React Features",
-                "description": "Expand your knowledge by exploring advanced React features, such as Context API (https://reactjs.org/docs/context.html) and Hooks. The Hooks API Reference (https://reactjs.org/docs/hooks-reference.html) will provide you with a comprehensive guide to using hooks in your React applications.",
-                "resources": [
-                    {
-                        "name": "Context API",
-                        "url": "https://reactjs.org/docs/context.html"
-                    },
-                    {
-                        "name": "Hooks API Reference",
-                        "url": "https://reactjs.org/docs/hooks-reference.html"
-                    }
-                ]
+                "step": "3. Data Structures & Algorithms",
+                "description": "Explore common data structures like stacks, queues, linked lists, trees, and hash tables.  Implement basic algorithms like sorting and searching. Analyze time and space complexity.",
+                "book": {
+                    "name": "A Practical Introduction to Python Programming",
+                    "url": "https://www.brianheinold.net/python/"
+                },
+                "video": "https://www.youtube.com/watch?v=QT1OD3Gg-sQ"
             },
             {
-                "step": "4. Mobile Development with React Native",
-                "description": "If you want to take your React skills to mobile platforms, dive into React Native Documentation (https://reactnative.dev/docs/environment-setup) and learn how to build cross-platform mobile applications using React.",
-                "resources": [
-                    {
-                        "name": "React Native Documentation",
-                        "url": "https://reactnative.dev/docs/environment-setup"
-                    }
-                ]
+                "step": "4. Essential Libraries",
+                "description": "Become familiar with key Python libraries like `requests` (for HTTP requests), `BeautifulSoup` (for web scraping), `pandas` (for data analysis), and `NumPy` (for numerical computing).",
+                "book": {
+                    "name": "20 Python Libraries You Aren't Using (But Should)",
+                    "url": "https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should"
+                },
+                "video": "https://www.youtube.com/watch?v=Wov6V0ZgB8Q"
+            },
+            {
+                "step": "5. Magic Methods",
+                "description": "Understand how magic methods (or dunder methods) work and how they can be used to customize the behavior of classes. Learn how to overload operators.",
+                "book": {
+                    "name": "A Guide to Python's Magic Methods",
+                    "url": "https://github.com/RafeKettler/magicmethods"
+                },
+                "video": "https://www.youtube.com/watch?v=2K9wF7C-e04"
+            },
+            {
+                "step": "6. Automation & Scripting",
+                "description": "Use Python to automate repetitive tasks. Learn how to work with files, directories, and system commands.",
+                "book": {
+                    "name": "Automate the Boring Stuff with Python, 3nd Edition: Practical Programming for Total Beginners",
+                    "url": "https://automatetheboringstuff.com/3e/"
+                },
+                "video": "https://www.youtube.com/watch?v=HCG-j-pB2bQ"
+            },
+            {
+                "step": "7. Statistical Learning (Intro)",
+                "description": "Gain a basic understanding of statistical learning concepts, including linear regression, classification, and model evaluation.",
+                "book": {
+                    "name": "An Introduction to Statistical Learning with Applications in Python",
+                    "url": "https://www.statlearning.com"
+                },
+                "video": "https://www.youtube.com/watch?v=U_HnF0_9jH8"
+            },
+            {
+                "step": "8. Architecture Patterns",
+                "description": "Learn some common architectural patterns and how to apply them to build robust and scalable applications.",
+                "book": {
+                    "name": "Architecture Patterns with Python",
+                    "url": "https://www.cosmicpython.com/book/preface.html"
+                },
+                "video": "https://www.youtube.com/watch?v=G1Tq1pE8k_Q"
+            },
+            {
+                "step": "9. React Integration",
+                "description": "Explore how to interact with Python backends from a React frontend. Learn about REST APIs, data fetching, and state management.",
+                "book": {
+                    "name": "100 Page Python Intro",
+                    "url": "https://learnbyexample.github.io/100_page_python_intro/"
+                },
+                "video": "https://www.youtube.com/watch?v=U4V90b4s7W8"
             }
         ]
     },
     {
-        "title": "Systems Engineer (Rust/C++)",
+        "title": "React & Python Developer - Entry Level Position",
+        "avg_salary": "$60k",
         "steps": [
             {
-                "step": "1. Basics",
-                "description": "Begin your journey with the fundamentals of Rust and C++ programming.",
-                "resources": [
-                    {
-                        "name": "The Rust Programming Language (Official Book)",
-                        "url": "https://doc.rust-lang.org/book/"
-                    },
-                    {
-                        "name": "C++ Programming Language",
-                        "url": "https://web.archive.org/web/20230908004456/http://www.stroustrup.com/C++.html"
-                    }
-                ]
+                "step": "1. Basics - Python Fundamentals",
+                "description": "Understand Python syntax, data types (integers, floats, strings, booleans), variables, operators, control flow (if/else statements, loops), and basic input/output.  Focus on the core principles. Work through examples from 'A Beginner's Python Tutorial' and 'A Byte of Python'.",
+                "book": {
+                    "name": "A Beginner's Python Tutorial",
+                    "url": "https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial"
+                },
+                "video": "https://www.youtube.com/watch?v=VMtZwE9jQ4o"
             },
             {
-                "step": "2. Intermediate",
-                "description": "Deepen your understanding with more advanced concepts and examples.",
-                "resources": [
-                    {
-                        "name": "Rust by Example",
-                        "url": "https://doc.rust-lang.org/rust-by-example/"
-                    },
-                    {
-                        "name": "The C++ Standard Library",
-                        "url": "https://en.cppreference.com/w/"
-                    }
-                ]
+                "step": "2. Data Structures & Functions",
+                "description": "Learn about lists, dictionaries, tuples, and sets.  Master defining and using functions, including arguments and return values.  Explore common built-in functions. Continue with 'A Beginner's Python Tutorial' and 'A Byte of Python'.",
+                "book": {
+                    "name": "A Byte of Python",
+                    "url": "https://python.swaroopch.com"
+                },
+                "video": "https://www.youtube.com/watch?v=BstbhHEwR2o"
             },
             {
-                "step": "3. Advanced",
-                "description": "Explore the more complex aspects of Rust and C++ programming.",
-                "resources": [
-                    {
-                        "name": "The Rustonomicon",
-                        "url": "https://doc.rust-lang.org/nomicon/"
-                    }
-                ]
+                "step": "3. Object-Oriented Programming (OOP)",
+                "description": "Grasp the concepts of classes, objects, inheritance, and polymorphism.  Understand how to create and use custom classes. Review 'A Whirlwind Tour of Python' for a concise introduction to OOP.",
+                "book": {
+                    "name": "A Whirlwind Tour of Python",
+                    "url": "https://jakevdp.github.io/WhirlwindTourOfPython/"
+                },
+                "video": "https://www.youtube.com/watch?v=ZDa-Z5JzLYM"
             },
             {
-                "step": "4. Additional Resources",
-                "description": "Access a wider collection of resources to further enhance your knowledge.",
-                "resources": [
-                    {
-                        "name": "EbookFoundation/free-programming-books",
-                        "url": "https://github.com/EbookFoundation/free-programming-books"
-                    }
-                ]
+                "step": "4. Modules and Packages",
+                "description": "Learn how to import and use modules.  Understand how to create and distribute your own packages. Refer to 'A Whirlwind Tour of Python'.",
+                "book": {
+                    "name": "A Whirlwind Tour of Python",
+                    "url": "https://jakevdp.github.io/WhirlwindTourOfPython/"
+                },
+                "video": "https://www.youtube.com/watch?v=xUq-Q7y3Q0g"
+            },
+            {
+                "step": "5. Error Handling & File I/O",
+                "description": "Understand how to handle exceptions and write robust code. Learn how to read from and write to files. Refer to 'Automate the Boring Stuff with Python'.",
+                "book": {
+                    "name": "Automate the Boring Stuff with Python, 3nd Edition",
+                    "url": "https://automatetheboringstuff.com/3e/"
+                },
+                "video": "https://www.youtube.com/watch?v=T1ucbN0-uQ0"
+            },
+            {
+                "step": "6. Introduction to React",
+                "description": "Learn the basics of React, including components, JSX, props, and state. Understand the component lifecycle. Follow a beginner React tutorial online.",
+                "book": {
+                    "name": "React Official Documentation",
+                    "url": "https://react.dev/learn"
+                },
+                "video": "https://www.youtube.com/watch?v=bO8Vb3e0d4U"
+            },
+            {
+                "step": "7. React Components and State Management",
+                "description": "Dive deeper into React components, state management (using useState), and event handling. Explore different ways to manage component state.",
+                "book": {
+                    "name": "React Official Documentation",
+                    "url": "https://react.dev/learn"
+                },
+                "video": "https://www.youtube.com/watch?v=R5N-T4N2w14"
+            },
+            {
+                "step": "8. Python Libraries for Practical Applications",
+                "description": "Explore common Python libraries like NumPy, Pandas, Requests, and Beautiful Soup.  Learn how these libraries can be used to solve real-world problems. Reference '20 Python Libraries You Aren't Using (But Should)' and 'A Practical Introduction to Python Programming'.",
+                "book": {
+                    "name": "20 Python Libraries You Aren't Using (But Should)",
+                    "url": "https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should"
+                },
+                "video": "https://www.youtube.com/watch?v=QVwWjGvJ79Q"
+            },
+            {
+                "step": "9. Basic Statistical Learning with Python",
+                "description": "Understand basic statistical concepts and how to apply them using Python libraries. Work through introductory examples from 'An Introduction to Statistical Learning with Applications in Python'.",
+                "book": {
+                    "name": "An Introduction to Statistical Learning with Applications in Python",
+                    "url": "https://www.statlearning.com"
+                },
+                "video": "https://www.youtube.com/watch?v=KN9MhB6F1fU"
+            },
+            {
+                "step": "10. Python Magic Methods",
+                "description": "Understand and use Python's magic methods for customization and extension.",
+                "book": {
+                    "name": "A Guide to Python's Magic Methods",
+                    "url": "https://github.com/RafeKettler/magicmethods"
+                },
+                "video": "https://www.youtube.com/watch?v=K_jU5tP9Iog"
             }
         ]
     },
     {
-        "title": "Java Enterprise",
+        "title": "Junior Full Stack Developer (Python & React)",
+        "avg_salary": "$60k",
         "steps": [
             {
-                "step": "1. Basics",
-                "description": "Begin your journey with the fundamentals of Java programming.",
-                "resources": [
-                    {
-                        "name": "Introduction to Java Programming",
-                        "url": "https://books.trinket.io/pd/java/intro.html"
-                    },
-                    {
-                        "name": "Java: A Beginner's Guide",
-                        "url": "https://www.gutenberg.org/ebooks/50343"
-                    }
-                ]
+                "step": "1. Python Fundamentals",
+                "description": "Understand Python syntax, data types, control flow, functions, and basic object-oriented programming.",
+                "book": {
+                    "name": "A Beginner's Python Tutorial",
+                    "url": "https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial"
+                },
+                "video": "https://www.youtube.com/watch?v=rfscVS0vtbw"
             },
             {
-                "step": "2. Core Concepts",
-                "description": "Build upon the basics with essential Java concepts and features.",
-                "resources": [
-                    {
-                        "name": "The Java Programming Language",
-                        "url": "https://docs.oracle.com/javase/tutorial/"
-                    },
-                    {
-                        "name": "Java 8 in Action",
-                        "url": "https://www.manning.com/books/java-8-in-action"
-                    }
-                ]
+                "step": "2. Python Core Concepts",
+                "description": "Dive deeper into Python's core concepts such as modules, packages, exception handling, and file I/O.",
+                "book": {
+                    "name": "A Practical Introduction to Python Programming",
+                    "url": "https://www.brianheinold.net/python/"
+                },
+                "video": "https://www.youtube.com/watch?v=DAzlPTwOc-0"
             },
             {
-                "step": "3. Advanced Topics",
-                "description": "Delve into more complex aspects of Java programming.",
-                "resources": [
-                    {
-                        "name": "Java Concurrency in Practice",
-                        "url": "https://jcip.net/"
-                    },
-                    {
-                        "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
-                        "url": "http://www.gofpatterns.com/"
-                    }
-                ]
+                "step": "3. Python Libraries & Automation",
+                "description": "Learn to use common Python libraries for tasks like web scraping, data manipulation, and automation.",
+                "book": {
+                    "name": "Automate the Boring Stuff with Python, 3nd Edition",
+                    "url": "https://automatetheboringstuff.com/3e/"
+                },
+                "video": "https://www.youtube.com/watch?v=QO3K8QG-J88"
             },
             {
-                "step": "4. Problem Solving and Optimization",
-                "description": "Enhance your problem-solving skills and learn optimization techniques.",
-                "resources": [
-                    {
-                        "name": "Java Puzzlers: Traps, Pitfalls, and Corner Cases",
-                        "url": "https://java.sun.com/docs/books/puzzlers/"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "title": "Python AI Dev",
-        "language": "Python",
-        "steps": [
-            {
-                "step": 1,
-                "action": "Complete freeCodeCamp Python Courses to gain a solid foundation in Python programming language and basic AI concepts.",
-                "reason": "These courses cover essential Python programming skills and introduce fundamental AI principles."
+                "step": "4. Introduction to Web Development with Flask/Django",
+                "description": "Build simple web applications using a Python web framework like Flask or Django.",
+                "book": {
+                    "name": "Architecture Patterns with Python",
+                    "url": "https://www.cosmicpython.com/book/preface.html"
+                },
+                "video": "https://www.youtube.com/watch?v=oIMWqV4d_q4"
             },
             {
-                "step": 2,
-                "action": "Study Python.org Documentation and Real Python Tutorials to deepen understanding of Python and practice problem-solving.",
-                "reason": "The official documentation and tutorials provide comprehensive coverage of Python features and coding best practices."
+                "step": "5. React Fundamentals",
+                "description": "Learn the basics of React, including components, JSX, state, and props.",
+                "book": {
+                    "name": "React Official Documentation",
+                    "url": "https://react.dev/learn"
+                },
+                "video": "https://www.youtube.com/watch?v=bO_3QY8u84s"
             },
             {
-                "step": 3,
-                "action": "Master AI development with the Python Data Science Handbook and Python Crash Course, while exploring Codecademy's Python Track.",
-                "reason": "These books and courses focus on AI-specific topics like data science, machine learning, and practical applications of Python."
+                "step": "6. React Components and State Management",
+                "description": "Build complex React components and learn how to manage state effectively.",
+                "book": {
+                    "name": "React Official Documentation",
+                    "url": "https://react.dev/learn"
+                },
+                "video": "https://www.youtube.com/watch?v=hWfI6RHHq5I"
             },
             {
-                "step": 4,
-                "action": "Gain hands-on experience deploying models with Google's Python Class and study advanced concepts from Open Data Structures and Learning Python.",
-                "reason": "This step ensures proficiency in deploying AI models on edge devices and understanding advanced Python features for robust development."
-            }
-        ]
-    },
-    {
-        "title": "Vue.js Tailwind CSS Frontend Developer",
-        "language": "Tailwind CSS",
-        "steps": [
-            {
-                "step": 1,
-                "book": "Learning Tailwind CSS 4 Essential Training",
-                "reason": "To establish a strong foundation in using Tailwind CSS for styling applications quickly and consistently, following best practices and modern web design principles."
+                "step": "7. Connecting React to Python Backend",
+                "description": "Learn how to make API requests from your React front-end to your Python back-end.",
+                "book": {
+                    "name": "20 Python Libraries You Aren't Using (But Should)",
+                    "url": "https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should"
+                },
+                "video": "https://www.youtube.com/watch?v=z9J8n8-eDqM"
             },
             {
-                "step": 2,
-                "book": "Tailwind Plus",
-                "reason": "To dive deeper into advanced concepts and techniques with Tailwind CSS, exploring its utility classes, customization options, and integrating it seamlessly into Vue.js applications."
-            },
-            {
-                "step": 3,
-                "book": "Official Tailwind CSS Documentation",
-                "reason": "To have direct access to the latest updates, features, and official guidance provided by the Tailwind CSS team, ensuring a comprehensive understanding of the framework's capabilities."
-            },
-            {
-                "step": 4,
-                "book": "Vue.js and Tailwind CSS Resources",
-                "reason": "To explore additional resources specifically focused on combining Vue.js with Tailwind CSS effectively, gaining insights from experienced developers and learning best practices for building modern, efficient web applications."
-            }
-        ]
-    },
-    {
-        "title": "Go Rust Backend Software Engineer",
-        "language": "Rust",
-        "steps": [
-            {
-                "step": 1,
-                "book": "The Rust Programming Language (Official Book)",
-                "reason": "Mastering Rust's unique features like ownership and borrowing system is crucial for a Go Rust Backend Software Engineer. The official book provides in-depth coverage of these concepts, equipping the engineer with the fundamental skills needed to develop safe and efficient applications using Rust."
-            },
-            {
-                "step": 2,
-                "book": "Rust by Example",
-                "reason": "To gain practical experience and reinforce the theoretical knowledge gained from the official book, 'Rust by Example' offers a collection of hands-on examples. These examples help the engineer apply their understanding of Rust concepts to real-world scenarios, enhancing their problem-solving skills and ability to write idiomatic Rust code."
-            },
-            {
-                "step": 3,
-                "book": "The Go Programming Language (Official Book)",
-                "reason": "While Rust is the primary language for this role, familiarity with Go is also valuable. The official Go book provides a solid foundation in Go's unique features and best practices. Understanding how Go differs from Rust helps the engineer make informed decisions when choosing the right language or feature for specific requirements."
-            },
-            {
-                "step": 4,
-                "book": "Designing Data-Intensive Applications",
-                "reason": "As the role involves developing high-performance, scalable backend systems, knowledge of data-intensive application design patterns is essential. This book covers fundamental concepts such as databases, scalability techniques, and distributed systems, providing a comprehensive understanding of building reliable and efficient backends."
-            }
-        ]
-    },
-    {
-        "title": "C++ Java Android App Dev",
-        "language": "Java",
-        "steps": [
-            {
-                "step": 1,
-                "description": "Learn Java programming fundamentals using 'Introduction to Java Programming' and 'Java: A Beginner's Guide'. Apply concepts by building simple Android apps.",
-                "marketReason": "Gaining core Java skills is essential for developing cross-platform apps with Jetpack Compose (Market 1) and modern UI/UX designs (Market 5)."
-            },
-            {
-                "step": 2,
-                "description": "Understand concurrency patterns using 'Java Concurrency in Practice'. Explore multi-threading techniques relevant to cloud-native architectures (Market 3).",
-                "marketReason": "Effective concurrency is crucial for building performant, scalable cloud-native backends. Understanding these patterns helps avoid pitfalls."
-            },
-            {
-                "step": 3,
-                "description": "Study design patterns from 'Design Patterns: Elements of Reusable Object-Oriented Software'. Apply patterns to improve Android app architecture and code reuse.",
-                "marketReason": "Properly applying design patterns promotes clean, maintainable codebases. This is important for integrating AI/ML (Market 2) and privacy-first techniques (Market 4)."
-            },
-            {
-                "step": 4,
-                "description": "Solve programming puzzles from 'Java Puzzlers' to identify traps and edge cases in Java. Use 'The Java Programming Language' and 'Java 8 in Action' for comprehensive language understanding.",
-                "marketReason": "Identifying and avoiding common pitfalls ensures robust, bug-free apps. Strong Java knowledge enables leveraging advanced features like lambda expressions (Market 1) and stream API (Market 2)."
+                "step": "8. Version Control with Git",
+                "description": "Learn how to use Git for version control and collaboration.",
+                "book": {
+                    "name": "Pro Git",
+                    "url": "https://git-scm.com/book/en/v2"
+                },
+                "video": "https://www.youtube.com/watch?v=RGOj5yH7BYg"
             }
         ]
     }
