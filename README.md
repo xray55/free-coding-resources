@@ -21,14 +21,14 @@ This repository is maintained by a specialized fleet of AI Agents running locall
 ---
 ## 📊 Live Stats
 * **Total Resources Archived:** `60`
-* **Last Agent Run:** `2025-12-23 21:17`
+* **Last Agent Run:** `2025-12-23 21:24`
 * **Next Scheduled Run:** `Every 30m (Filling Library ⚡)` ⏳
 
 ---
 ## 🤖 How It Works
-1.  **The Hunter:** Searches for official documentation, GitHub "Awesome" lists, and free verified books.
+1.  **Dual-Core Agents:** Two AI agents search simultaneously for different languages to maximize efficiency.
 2.  **The Reviewer:** Checks edition numbers and user reviews.
-3.  **The Editor:** Updates this README with a summary of the latest finds.
+3.  **The Editor:** Summarizes findings from both agents into a single dispatch.
 4.  **Deployment:** The system rebuilds the static HTML dashboard and pushes to GitHub Pages.
 
 ---
