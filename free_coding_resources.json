@@ -368,10 +368,10 @@
         "date_found": "2025-12-23"
     },
     {
-        "name": "Microsoft's Official C# Documentation",
+        "name": "Microsoft Learn \u2013 C# Learning Path",
         "url": "https://docs.microsoft.com/en-us/dotnet/csharp/",
-        "description": "The official documentation for C#, providing detailed information on language features, tools, and best practices.",
-        "type": "Official Documentation",
+        "description": "Official Microsoft resource for learning C#.",
+        "type": "Learning Path",
         "language": "C#",
         "date_found": "2025-12-23"
     },
@@ -405,6 +405,46 @@
         "description": "",
         "type": "",
         "language": "Go",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "You Don't Know JS Yet (Scope & Closures)",
+        "url": "https://github.com/getify/you-dont-know-js/tree/master/scope-closures",
+        "description": "",
+        "type": "",
+        "language": "Node.js",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "The Node Beginner Book",
+        "url": "https://www.nodebeginner.org/",
+        "description": "",
+        "type": "",
+        "language": "Node.js",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Node.js Documentation",
+        "url": "https://nodejs.org/en/docs/",
+        "description": "",
+        "type": "",
+        "language": "Node.js",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "GitHub - fkatada/books-Csharp",
+        "url": "https://github.com/fkatada/books-Csharp",
+        "description": "A repository containing various C# books and learning materials.",
+        "type": "Book Repository",
+        "language": "C#",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "GitHub - dotnet/docs",
+        "url": "https://github.com/dotnet/docs",
+        "description": "Official .NET documentation repository, including C# resources.",
+        "type": "Documentation Repository",
+        "language": "C#",
         "date_found": "2025-12-23"
     }
 ]
