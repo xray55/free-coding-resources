@@ -144,12 +144,12 @@
         "date_found": "2025-12-21"
     },
     {
-        "name": "Programming TypeScript (2019)",
+        "name": "TypeScript Handbook",
         "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
-        "description": "A comprehensive guide to learning TypeScript, covering various aspects of the language.",
-        "type": "Book",
+        "description": "The official documentation for TypeScript, providing an in-depth introduction to the language features and best practices.",
+        "type": "Official Documentation",
         "language": "TypeScript",
-        "date_found": "2025-12-21"
+        "date_found": "2025-12-23"
     },
     {
         "name": "TypeDoc",
@@ -445,6 +445,38 @@
         "description": "Official .NET documentation repository, including C# resources.",
         "type": "Documentation Repository",
         "language": "C#",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Vue.js - A Comprehensive Guide",
+        "url": "https://github.com/vuejs/docs/blob/main/guide/introduction.html",
+        "description": "A comprehensive guide to Vue.js, covering various aspects and features of the framework.",
+        "type": "Guide",
+        "language": "Vue.js",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "You Don't Know JS Yet: TypeScript Edition",
+        "url": "https://github.com/getify/you-dont-know-js/tree/master/typescript",
+        "description": "A comprehensive guide to learning TypeScript through practical examples and exercises.",
+        "type": "Book/Guide",
+        "language": "TypeScript",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "Free TypeScript Books Repository on GitHub",
+        "url": "https://github.com/EbookFoundation/free-programming-books/tree/master/books",
+        "description": "A collection of free TypeScript books available for download, covering various levels and topics.",
+        "type": "Repository of Free Books",
+        "language": "TypeScript",
+        "date_found": "2025-12-23"
+    },
+    {
+        "name": "TypeScript: Deep Dive by Basarat Ali Syed",
+        "url": "https://github.com/basarat/typescript-book",
+        "description": "An in-depth exploration of TypeScript, offering detailed explanations and examples to master the language.",
+        "type": "Book/Guide",
+        "language": "TypeScript",
         "date_found": "2025-12-23"
     }
 ]
